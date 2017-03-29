@@ -1,0 +1,3560 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import sys # builtin
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'zipimport' # <class '_frozen_importlib.BuiltinImporter'>
+# installed zipimport hook
+# /usr/lib/python3.5/encodings/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/encodings/__init__.py
+# code object from '/usr/lib/python3.5/encodings/__pycache__/__init__.cpython-35.pyc'
+# trying /usr/lib/python3.5/codecs.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/codecs.abi3.so
+# trying /usr/lib/python3.5/codecs.so
+# trying /usr/lib/python3.5/codecs.py
+# /usr/lib/python3.5/__pycache__/codecs.cpython-35.pyc matches /usr/lib/python3.5/codecs.py
+# code object from '/usr/lib/python3.5/__pycache__/codecs.cpython-35.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd1530b8>
+# trying /usr/lib/python3.5/encodings/aliases.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/encodings/aliases.abi3.so
+# trying /usr/lib/python3.5/encodings/aliases.so
+# trying /usr/lib/python3.5/encodings/aliases.py
+# /usr/lib/python3.5/encodings/__pycache__/aliases.cpython-35.pyc matches /usr/lib/python3.5/encodings/aliases.py
+# code object from '/usr/lib/python3.5/encodings/__pycache__/aliases.cpython-35.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0e1b70>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd14bc88>
+# trying /usr/lib/python3.5/encodings/utf_8.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/encodings/utf_8.abi3.so
+# trying /usr/lib/python3.5/encodings/utf_8.so
+# trying /usr/lib/python3.5/encodings/utf_8.py
+# /usr/lib/python3.5/encodings/__pycache__/utf_8.cpython-35.pyc matches /usr/lib/python3.5/encodings/utf_8.py
+# code object from '/usr/lib/python3.5/encodings/__pycache__/utf_8.cpython-35.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0ef940>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /usr/lib/python3.5/encodings/latin_1.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/encodings/latin_1.abi3.so
+# trying /usr/lib/python3.5/encodings/latin_1.so
+# trying /usr/lib/python3.5/encodings/latin_1.py
+# /usr/lib/python3.5/encodings/__pycache__/latin_1.cpython-35.pyc matches /usr/lib/python3.5/encodings/latin_1.py
+# code object from '/usr/lib/python3.5/encodings/__pycache__/latin_1.cpython-35.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0f2470>
+# trying /usr/lib/python3.5/io.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/io.abi3.so
+# trying /usr/lib/python3.5/io.so
+# trying /usr/lib/python3.5/io.py
+# /usr/lib/python3.5/__pycache__/io.cpython-35.pyc matches /usr/lib/python3.5/io.py
+# code object from '/usr/lib/python3.5/__pycache__/io.cpython-35.pyc'
+# trying /usr/lib/python3.5/abc.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/abc.abi3.so
+# trying /usr/lib/python3.5/abc.so
+# trying /usr/lib/python3.5/abc.py
+# /usr/lib/python3.5/__pycache__/abc.cpython-35.pyc matches /usr/lib/python3.5/abc.py
+# code object from '/usr/lib/python3.5/__pycache__/abc.cpython-35.pyc'
+# trying /usr/lib/python3.5/_weakrefset.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_weakrefset.abi3.so
+# trying /usr/lib/python3.5/_weakrefset.so
+# trying /usr/lib/python3.5/_weakrefset.py
+# /usr/lib/python3.5/__pycache__/_weakrefset.cpython-35.pyc matches /usr/lib/python3.5/_weakrefset.py
+# code object from '/usr/lib/python3.5/__pycache__/_weakrefset.cpython-35.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0f8128>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0f2908>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0f26a0>
+# trying /usr/lib/python3.5/_bootlocale.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_bootlocale.abi3.so
+# trying /usr/lib/python3.5/_bootlocale.so
+# trying /usr/lib/python3.5/_bootlocale.py
+# /usr/lib/python3.5/__pycache__/_bootlocale.cpython-35.pyc matches /usr/lib/python3.5/_bootlocale.py
+# code object from '/usr/lib/python3.5/__pycache__/_bootlocale.cpython-35.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0f9860>
+# trying /usr/lib/python3.5/site.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/site.abi3.so
+# trying /usr/lib/python3.5/site.so
+# trying /usr/lib/python3.5/site.py
+# /usr/lib/python3.5/__pycache__/site.cpython-35.pyc matches /usr/lib/python3.5/site.py
+# code object from '/usr/lib/python3.5/__pycache__/site.cpython-35.pyc'
+# trying /usr/lib/python3.5/os.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/os.abi3.so
+# trying /usr/lib/python3.5/os.so
+# trying /usr/lib/python3.5/os.py
+# /usr/lib/python3.5/__pycache__/os.cpython-35.pyc matches /usr/lib/python3.5/os.py
+# code object from '/usr/lib/python3.5/__pycache__/os.cpython-35.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /usr/lib/python3.5/stat.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/stat.abi3.so
+# trying /usr/lib/python3.5/stat.so
+# trying /usr/lib/python3.5/stat.py
+# /usr/lib/python3.5/__pycache__/stat.cpython-35.pyc matches /usr/lib/python3.5/stat.py
+# code object from '/usr/lib/python3.5/__pycache__/stat.cpython-35.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd09f4e0>
+# trying /usr/lib/python3.5/posixpath.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/posixpath.abi3.so
+# trying /usr/lib/python3.5/posixpath.so
+# trying /usr/lib/python3.5/posixpath.py
+# /usr/lib/python3.5/__pycache__/posixpath.cpython-35.pyc matches /usr/lib/python3.5/posixpath.py
+# code object from '/usr/lib/python3.5/__pycache__/posixpath.cpython-35.pyc'
+# trying /usr/lib/python3.5/genericpath.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/genericpath.abi3.so
+# trying /usr/lib/python3.5/genericpath.so
+# trying /usr/lib/python3.5/genericpath.py
+# /usr/lib/python3.5/__pycache__/genericpath.cpython-35.pyc matches /usr/lib/python3.5/genericpath.py
+# code object from '/usr/lib/python3.5/__pycache__/genericpath.cpython-35.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0a4d68>
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd09f860>
+# trying /usr/lib/python3.5/_collections_abc.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_collections_abc.abi3.so
+# trying /usr/lib/python3.5/_collections_abc.so
+# trying /usr/lib/python3.5/_collections_abc.py
+# /usr/lib/python3.5/__pycache__/_collections_abc.cpython-35.pyc matches /usr/lib/python3.5/_collections_abc.py
+# code object from '/usr/lib/python3.5/__pycache__/_collections_abc.cpython-35.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0ac438>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd109c88>
+# trying /usr/lib/python3.5/_sitebuiltins.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_sitebuiltins.abi3.so
+# trying /usr/lib/python3.5/_sitebuiltins.so
+# trying /usr/lib/python3.5/_sitebuiltins.py
+# /usr/lib/python3.5/__pycache__/_sitebuiltins.cpython-35.pyc matches /usr/lib/python3.5/_sitebuiltins.py
+# code object from '/usr/lib/python3.5/__pycache__/_sitebuiltins.cpython-35.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd10e080>
+# trying /usr/lib/python3.5/sysconfig.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/sysconfig.abi3.so
+# trying /usr/lib/python3.5/sysconfig.so
+# trying /usr/lib/python3.5/sysconfig.py
+# /usr/lib/python3.5/__pycache__/sysconfig.cpython-35.pyc matches /usr/lib/python3.5/sysconfig.py
+# code object from '/usr/lib/python3.5/__pycache__/sysconfig.cpython-35.pyc'
+import 'sysconfig' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd030ba8>
+# trying /usr/lib/python3.5/_sysconfigdata.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_sysconfigdata.abi3.so
+# trying /usr/lib/python3.5/_sysconfigdata.so
+# trying /usr/lib/python3.5/_sysconfigdata.py
+# /usr/lib/python3.5/__pycache__/_sysconfigdata.cpython-35.pyc matches /usr/lib/python3.5/_sysconfigdata.py
+# code object from '/usr/lib/python3.5/__pycache__/_sysconfigdata.cpython-35.pyc'
+# trying /usr/lib/python3.5/_sysconfigdata_m.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_sysconfigdata_m.abi3.so
+# trying /usr/lib/python3.5/_sysconfigdata_m.so
+# trying /usr/lib/python3.5/_sysconfigdata_m.py
+# trying /usr/lib/python3.5/_sysconfigdata_m.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_sysconfigdata_m.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_sysconfigdata_m.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_sysconfigdata_m.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_sysconfigdata_m.py
+# /usr/lib/python3.5/plat-x86_64-linux-gnu/__pycache__/_sysconfigdata_m.cpython-35.pyc matches /usr/lib/python3.5/plat-x86_64-linux-gnu/_sysconfigdata_m.py
+# code object from '/usr/lib/python3.5/plat-x86_64-linux-gnu/__pycache__/_sysconfigdata_m.cpython-35.pyc'
+import '_sysconfigdata_m' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0396d8>
+import '_sysconfigdata' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0394a8>
+# trying /usr/lib/python3.5/sitecustomize.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/sitecustomize.abi3.so
+# trying /usr/lib/python3.5/sitecustomize.so
+# trying /usr/lib/python3.5/sitecustomize.py
+# /usr/lib/python3.5/__pycache__/sitecustomize.cpython-35.pyc matches /usr/lib/python3.5/sitecustomize.py
+# code object from '/usr/lib/python3.5/__pycache__/sitecustomize.cpython-35.pyc'
+# trying /usr/lib/python3.5/apport_python_hook.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/apport_python_hook.abi3.so
+# trying /usr/lib/python3.5/apport_python_hook.so
+# trying /usr/lib/python3.5/apport_python_hook.py
+# trying /usr/lib/python3.5/apport_python_hook.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/apport_python_hook.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/apport_python_hook.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/apport_python_hook.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/apport_python_hook.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/apport_python_hook.pyc
+# trying /usr/lib/python3.5/lib-dynload/apport_python_hook.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lib-dynload/apport_python_hook.abi3.so
+# trying /usr/lib/python3.5/lib-dynload/apport_python_hook.so
+# trying /usr/lib/python3.5/lib-dynload/apport_python_hook.py
+# trying /usr/lib/python3.5/lib-dynload/apport_python_hook.pyc
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/apport_python_hook.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/apport_python_hook.abi3.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/apport_python_hook.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/apport_python_hook.py
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/apport_python_hook.pyc
+# trying /usr/local/lib/python3.5/dist-packages/apport_python_hook.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/apport_python_hook.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/apport_python_hook.so
+# trying /usr/local/lib/python3.5/dist-packages/apport_python_hook.py
+# trying /usr/local/lib/python3.5/dist-packages/apport_python_hook.pyc
+# trying /usr/lib/python3/dist-packages/apport_python_hook.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3/dist-packages/apport_python_hook.abi3.so
+# trying /usr/lib/python3/dist-packages/apport_python_hook.so
+# trying /usr/lib/python3/dist-packages/apport_python_hook.py
+# /usr/lib/python3/dist-packages/__pycache__/apport_python_hook.cpython-35.pyc matches /usr/lib/python3/dist-packages/apport_python_hook.py
+# code object from '/usr/lib/python3/dist-packages/__pycache__/apport_python_hook.cpython-35.pyc'
+import 'apport_python_hook' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd0512e8>
+import 'sitecustomize' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd048828>
+# trying /usr/lib/python3.5/usercustomize.cpython-35m-x86_64-linux-gnu.soPython 3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+
+# trying /usr/lib/python3.5/usercustomize.abi3.so
+# trying /usr/lib/python3.5/usercustomize.so
+# trying /usr/lib/python3.5/usercustomize.py
+# trying /usr/lib/python3.5/usercustomize.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/usercustomize.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/usercustomize.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/usercustomize.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/usercustomize.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/usercustomize.pyc
+# trying /usr/lib/python3.5/lib-dynload/usercustomize.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lib-dynload/usercustomize.abi3.so
+# trying /usr/lib/python3.5/lib-dynload/usercustomize.so
+# trying /usr/lib/python3.5/lib-dynload/usercustomize.py
+# trying /usr/lib/python3.5/lib-dynload/usercustomize.pyc
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/usercustomize.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/usercustomize.abi3.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/usercustomize.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/usercustomize.py
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/usercustomize.pyc
+# trying /usr/local/lib/python3.5/dist-packages/usercustomize.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/usercustomize.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/usercustomize.so
+# trying /usr/local/lib/python3.5/dist-packages/usercustomize.py
+# trying /usr/local/lib/python3.5/dist-packages/usercustomize.pyc
+# trying /usr/lib/python3/dist-packages/usercustomize.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3/dist-packages/usercustomize.abi3.so
+# trying /usr/lib/python3/dist-packages/usercustomize.so
+# trying /usr/lib/python3/dist-packages/usercustomize.py
+# trying /usr/lib/python3/dist-packages/usercustomize.pyc
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd1057b8>
+# trying /home/jjrobertson/pythonScripts/asyncio.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/asyncio.abi3.so
+# trying /home/jjrobertson/pythonScripts/asyncio.so
+# trying /home/jjrobertson/pythonScripts/asyncio.py
+# trying /home/jjrobertson/pythonScripts/asyncio.pyc
+# /usr/lib/python3.5/asyncio/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/asyncio/__init__.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/__init__.cpython-35.pyc'
+# trying /usr/lib/python3.5/asyncio/selectors.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/selectors.abi3.so
+# trying /usr/lib/python3.5/asyncio/selectors.so
+# trying /usr/lib/python3.5/asyncio/selectors.py
+# trying /usr/lib/python3.5/asyncio/selectors.pyc
+# trying /home/jjrobertson/pythonScripts/selectors.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/selectors.abi3.so
+# trying /home/jjrobertson/pythonScripts/selectors.so
+# trying /home/jjrobertson/pythonScripts/selectors.py
+# trying /home/jjrobertson/pythonScripts/selectors.pyc
+# trying /usr/lib/python3.5/selectors.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/selectors.abi3.so
+# trying /usr/lib/python3.5/selectors.so
+# trying /usr/lib/python3.5/selectors.py
+# /usr/lib/python3.5/__pycache__/selectors.cpython-35.pyc matches /usr/lib/python3.5/selectors.py
+# code object from '/usr/lib/python3.5/__pycache__/selectors.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/collections.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/collections.abi3.so
+# trying /home/jjrobertson/pythonScripts/collections.so
+# trying /home/jjrobertson/pythonScripts/collections.py
+# trying /home/jjrobertson/pythonScripts/collections.pyc
+# /usr/lib/python3.5/collections/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/collections/__init__.py
+# code object from '/usr/lib/python3.5/collections/__pycache__/__init__.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/operator.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/operator.abi3.so
+# trying /home/jjrobertson/pythonScripts/operator.so
+# trying /home/jjrobertson/pythonScripts/operator.py
+# trying /home/jjrobertson/pythonScripts/operator.pyc
+# trying /usr/lib/python3.5/operator.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/operator.abi3.so
+# trying /usr/lib/python3.5/operator.so
+# trying /usr/lib/python3.5/operator.py
+# /usr/lib/python3.5/__pycache__/operator.cpython-35.pyc matches /usr/lib/python3.5/operator.py
+# code object from '/usr/lib/python3.5/__pycache__/operator.cpython-35.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb98fd0>
+# trying /home/jjrobertson/pythonScripts/keyword.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/keyword.abi3.so
+# trying /home/jjrobertson/pythonScripts/keyword.so
+# trying /home/jjrobertson/pythonScripts/keyword.py
+# trying /home/jjrobertson/pythonScripts/keyword.pyc
+# trying /usr/lib/python3.5/keyword.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/keyword.abi3.so
+# trying /usr/lib/python3.5/keyword.so
+# trying /usr/lib/python3.5/keyword.py
+# /usr/lib/python3.5/__pycache__/keyword.cpython-35.pyc matches /usr/lib/python3.5/keyword.py
+# code object from '/usr/lib/python3.5/__pycache__/keyword.cpython-35.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbba63c8>
+# trying /home/jjrobertson/pythonScripts/heapq.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/heapq.abi3.so
+# trying /home/jjrobertson/pythonScripts/heapq.so
+# trying /home/jjrobertson/pythonScripts/heapq.py
+# trying /home/jjrobertson/pythonScripts/heapq.pyc
+# trying /usr/lib/python3.5/heapq.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/heapq.abi3.so
+# trying /usr/lib/python3.5/heapq.so
+# trying /usr/lib/python3.5/heapq.py
+# /usr/lib/python3.5/__pycache__/heapq.cpython-35.pyc matches /usr/lib/python3.5/heapq.py
+# code object from '/usr/lib/python3.5/__pycache__/heapq.cpython-35.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbba6be0>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/jjrobertson/pythonScripts/reprlib.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/reprlib.abi3.so
+# trying /home/jjrobertson/pythonScripts/reprlib.so
+# trying /home/jjrobertson/pythonScripts/reprlib.py
+# trying /home/jjrobertson/pythonScripts/reprlib.pyc
+# trying /usr/lib/python3.5/reprlib.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/reprlib.abi3.so
+# trying /usr/lib/python3.5/reprlib.so
+# trying /usr/lib/python3.5/reprlib.py
+# /usr/lib/python3.5/__pycache__/reprlib.cpython-35.pyc matches /usr/lib/python3.5/reprlib.py
+# code object from '/usr/lib/python3.5/__pycache__/reprlib.cpython-35.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbbaf0b8>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd05c9e8>
+import 'math' # <class '_frozen_importlib.BuiltinImporter'>
+import 'select' # <class '_frozen_importlib.BuiltinImporter'>
+import 'selectors' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd051e80>
+# trying /usr/lib/python3.5/asyncio/base_events.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/base_events.abi3.so
+# trying /usr/lib/python3.5/asyncio/base_events.so
+# trying /usr/lib/python3.5/asyncio/base_events.py
+# /usr/lib/python3.5/asyncio/__pycache__/base_events.cpython-35.pyc matches /usr/lib/python3.5/asyncio/base_events.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/base_events.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/concurrent.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/concurrent.abi3.so
+# trying /home/jjrobertson/pythonScripts/concurrent.so
+# trying /home/jjrobertson/pythonScripts/concurrent.py
+# trying /home/jjrobertson/pythonScripts/concurrent.pyc
+# /usr/lib/python3.5/concurrent/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/concurrent/__init__.py
+# code object from '/usr/lib/python3.5/concurrent/__pycache__/__init__.cpython-35.pyc'
+import 'concurrent' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb46e80>
+# /usr/lib/python3.5/concurrent/futures/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/concurrent/futures/__init__.py
+# code object from '/usr/lib/python3.5/concurrent/futures/__pycache__/__init__.cpython-35.pyc'
+# trying /usr/lib/python3.5/concurrent/futures/_base.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/concurrent/futures/_base.abi3.so
+# trying /usr/lib/python3.5/concurrent/futures/_base.so
+# trying /usr/lib/python3.5/concurrent/futures/_base.py
+# /usr/lib/python3.5/concurrent/futures/__pycache__/_base.cpython-35.pyc matches /usr/lib/python3.5/concurrent/futures/_base.py
+# code object from '/usr/lib/python3.5/concurrent/futures/__pycache__/_base.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/logging.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/logging.abi3.so
+# trying /home/jjrobertson/pythonScripts/logging.so
+# trying /home/jjrobertson/pythonScripts/logging.py
+# trying /home/jjrobertson/pythonScripts/logging.pyc
+# /usr/lib/python3.5/logging/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/logging/__init__.py
+# code object from '/usr/lib/python3.5/logging/__pycache__/__init__.cpython-35.pyc'
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/jjrobertson/pythonScripts/traceback.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/traceback.abi3.so
+# trying /home/jjrobertson/pythonScripts/traceback.so
+# trying /home/jjrobertson/pythonScripts/traceback.py
+# trying /home/jjrobertson/pythonScripts/traceback.pyc
+# trying /usr/lib/python3.5/traceback.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/traceback.abi3.so
+# trying /usr/lib/python3.5/traceback.so
+# trying /usr/lib/python3.5/traceback.py
+# /usr/lib/python3.5/__pycache__/traceback.cpython-35.pyc matches /usr/lib/python3.5/traceback.py
+# code object from '/usr/lib/python3.5/__pycache__/traceback.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/linecache.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/linecache.abi3.so
+# trying /home/jjrobertson/pythonScripts/linecache.so
+# trying /home/jjrobertson/pythonScripts/linecache.py
+# trying /home/jjrobertson/pythonScripts/linecache.pyc
+# trying /usr/lib/python3.5/linecache.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/linecache.abi3.so
+# trying /usr/lib/python3.5/linecache.so
+# trying /usr/lib/python3.5/linecache.py
+# /usr/lib/python3.5/__pycache__/linecache.cpython-35.pyc matches /usr/lib/python3.5/linecache.py
+# code object from '/usr/lib/python3.5/__pycache__/linecache.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/functools.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/functools.abi3.so
+# trying /home/jjrobertson/pythonScripts/functools.so
+# trying /home/jjrobertson/pythonScripts/functools.py
+# trying /home/jjrobertson/pythonScripts/functools.pyc
+# trying /usr/lib/python3.5/functools.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/functools.abi3.so
+# trying /usr/lib/python3.5/functools.so
+# trying /usr/lib/python3.5/functools.py
+# /usr/lib/python3.5/__pycache__/functools.cpython-35.pyc matches /usr/lib/python3.5/functools.py
+# code object from '/usr/lib/python3.5/__pycache__/functools.cpython-35.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/jjrobertson/pythonScripts/types.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/types.abi3.so
+# trying /home/jjrobertson/pythonScripts/types.so
+# trying /home/jjrobertson/pythonScripts/types.py
+# trying /home/jjrobertson/pythonScripts/types.pyc
+# trying /usr/lib/python3.5/types.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/types.abi3.so
+# trying /usr/lib/python3.5/types.so
+# trying /usr/lib/python3.5/types.py
+# /usr/lib/python3.5/__pycache__/types.cpython-35.pyc matches /usr/lib/python3.5/types.py
+# code object from '/usr/lib/python3.5/__pycache__/types.cpython-35.pyc'
+# trying /usr/lib/python3.5/collections/abc.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/collections/abc.abi3.so
+# trying /usr/lib/python3.5/collections/abc.so
+# trying /usr/lib/python3.5/collections/abc.py
+# /usr/lib/python3.5/collections/__pycache__/abc.cpython-35.pyc matches /usr/lib/python3.5/collections/abc.py
+# code object from '/usr/lib/python3.5/collections/__pycache__/abc.cpython-35.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb1a5f8>
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb11940>
+# trying /home/jjrobertson/pythonScripts/weakref.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/weakref.abi3.so
+# trying /home/jjrobertson/pythonScripts/weakref.so
+# trying /home/jjrobertson/pythonScripts/weakref.py
+# trying /home/jjrobertson/pythonScripts/weakref.pyc
+# trying /usr/lib/python3.5/weakref.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/weakref.abi3.so
+# trying /usr/lib/python3.5/weakref.so
+# trying /usr/lib/python3.5/weakref.py
+# /usr/lib/python3.5/__pycache__/weakref.cpython-35.pyc matches /usr/lib/python3.5/weakref.py
+# code object from '/usr/lib/python3.5/__pycache__/weakref.cpython-35.pyc'
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb11a20>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb84710>
+# trying /home/jjrobertson/pythonScripts/tokenize.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/tokenize.abi3.so
+# trying /home/jjrobertson/pythonScripts/tokenize.so
+# trying /home/jjrobertson/pythonScripts/tokenize.py
+# trying /home/jjrobertson/pythonScripts/tokenize.pyc
+# trying /usr/lib/python3.5/tokenize.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/tokenize.abi3.so
+# trying /usr/lib/python3.5/tokenize.so
+# trying /usr/lib/python3.5/tokenize.py
+# /usr/lib/python3.5/__pycache__/tokenize.cpython-35.pyc matches /usr/lib/python3.5/tokenize.py
+# code object from '/usr/lib/python3.5/__pycache__/tokenize.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/re.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/re.abi3.so
+# trying /home/jjrobertson/pythonScripts/re.so
+# trying /home/jjrobertson/pythonScripts/re.py
+# trying /home/jjrobertson/pythonScripts/re.pyc
+# trying /usr/lib/python3.5/re.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/re.abi3.so
+# trying /usr/lib/python3.5/re.so
+# trying /usr/lib/python3.5/re.py
+# /usr/lib/python3.5/__pycache__/re.cpython-35.pyc matches /usr/lib/python3.5/re.py
+# code object from '/usr/lib/python3.5/__pycache__/re.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/sre_compile.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/sre_compile.abi3.so
+# trying /home/jjrobertson/pythonScripts/sre_compile.so
+# trying /home/jjrobertson/pythonScripts/sre_compile.py
+# trying /home/jjrobertson/pythonScripts/sre_compile.pyc
+# trying /usr/lib/python3.5/sre_compile.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/sre_compile.abi3.so
+# trying /usr/lib/python3.5/sre_compile.so
+# trying /usr/lib/python3.5/sre_compile.py
+# /usr/lib/python3.5/__pycache__/sre_compile.cpython-35.pyc matches /usr/lib/python3.5/sre_compile.py
+# code object from '/usr/lib/python3.5/__pycache__/sre_compile.cpython-35.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/jjrobertson/pythonScripts/sre_parse.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/sre_parse.abi3.so
+# trying /home/jjrobertson/pythonScripts/sre_parse.so
+# trying /home/jjrobertson/pythonScripts/sre_parse.py
+# trying /home/jjrobertson/pythonScripts/sre_parse.pyc
+# trying /usr/lib/python3.5/sre_parse.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/sre_parse.abi3.so
+# trying /usr/lib/python3.5/sre_parse.so
+# trying /usr/lib/python3.5/sre_parse.py
+# /usr/lib/python3.5/__pycache__/sre_parse.cpython-35.pyc matches /usr/lib/python3.5/sre_parse.py
+# code object from '/usr/lib/python3.5/__pycache__/sre_parse.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/sre_constants.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/sre_constants.abi3.so
+# trying /home/jjrobertson/pythonScripts/sre_constants.so
+# trying /home/jjrobertson/pythonScripts/sre_constants.py
+# trying /home/jjrobertson/pythonScripts/sre_constants.pyc
+# trying /usr/lib/python3.5/sre_constants.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/sre_constants.abi3.so
+# trying /usr/lib/python3.5/sre_constants.so
+# trying /usr/lib/python3.5/sre_constants.py
+# /usr/lib/python3.5/__pycache__/sre_constants.cpython-35.pyc matches /usr/lib/python3.5/sre_constants.py
+# code object from '/usr/lib/python3.5/__pycache__/sre_constants.cpython-35.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbacd2e8>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb3fd30>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb36e80>
+# trying /home/jjrobertson/pythonScripts/copyreg.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/copyreg.abi3.so
+# trying /home/jjrobertson/pythonScripts/copyreg.so
+# trying /home/jjrobertson/pythonScripts/copyreg.py
+# trying /home/jjrobertson/pythonScripts/copyreg.pyc
+# trying /usr/lib/python3.5/copyreg.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/copyreg.abi3.so
+# trying /usr/lib/python3.5/copyreg.so
+# trying /usr/lib/python3.5/copyreg.py
+# /usr/lib/python3.5/__pycache__/copyreg.cpython-35.pyc matches /usr/lib/python3.5/copyreg.py
+# code object from '/usr/lib/python3.5/__pycache__/copyreg.cpython-35.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbad93c8>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb36240>
+# trying /home/jjrobertson/pythonScripts/token.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/token.abi3.so
+# trying /home/jjrobertson/pythonScripts/token.so
+# trying /home/jjrobertson/pythonScripts/token.py
+# trying /home/jjrobertson/pythonScripts/token.pyc
+# trying /usr/lib/python3.5/token.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/token.abi3.so
+# trying /usr/lib/python3.5/token.so
+# trying /usr/lib/python3.5/token.py
+# /usr/lib/python3.5/__pycache__/token.cpython-35.pyc matches /usr/lib/python3.5/token.py
+# code object from '/usr/lib/python3.5/__pycache__/token.cpython-35.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbad97b8>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb0b2e8>
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb84470>
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb7b710>
+# trying /home/jjrobertson/pythonScripts/warnings.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/warnings.abi3.so
+# trying /home/jjrobertson/pythonScripts/warnings.so
+# trying /home/jjrobertson/pythonScripts/warnings.py
+# trying /home/jjrobertson/pythonScripts/warnings.pyc
+# trying /usr/lib/python3.5/warnings.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/warnings.abi3.so
+# trying /usr/lib/python3.5/warnings.so
+# trying /usr/lib/python3.5/warnings.py
+# /usr/lib/python3.5/__pycache__/warnings.cpython-35.pyc matches /usr/lib/python3.5/warnings.py
+# code object from '/usr/lib/python3.5/__pycache__/warnings.cpython-35.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb239e8>
+# trying /home/jjrobertson/pythonScripts/string.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/string.abi3.so
+# trying /home/jjrobertson/pythonScripts/string.so
+# trying /home/jjrobertson/pythonScripts/string.py
+# trying /home/jjrobertson/pythonScripts/string.pyc
+# trying /usr/lib/python3.5/string.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/string.abi3.so
+# trying /usr/lib/python3.5/string.so
+# trying /usr/lib/python3.5/string.py
+# /usr/lib/python3.5/__pycache__/string.cpython-35.pyc matches /usr/lib/python3.5/string.py
+# code object from '/usr/lib/python3.5/__pycache__/string.cpython-35.pyc'
+import '_string' # <class '_frozen_importlib.BuiltinImporter'>
+import 'string' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbaec4e0>
+# trying /home/jjrobertson/pythonScripts/threading.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/threading.abi3.so
+# trying /home/jjrobertson/pythonScripts/threading.so
+# trying /home/jjrobertson/pythonScripts/threading.py
+# trying /home/jjrobertson/pythonScripts/threading.pyc
+# trying /usr/lib/python3.5/threading.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/threading.abi3.so
+# trying /usr/lib/python3.5/threading.so
+# trying /usr/lib/python3.5/threading.py
+# /usr/lib/python3.5/__pycache__/threading.cpython-35.pyc matches /usr/lib/python3.5/threading.py
+# code object from '/usr/lib/python3.5/__pycache__/threading.cpython-35.pyc'
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbaea048>
+import 'atexit' # <class '_frozen_importlib.BuiltinImporter'>
+import 'logging' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb5d1d0>
+import 'concurrent.futures._base' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb530b8>
+# trying /usr/lib/python3.5/concurrent/futures/process.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/concurrent/futures/process.abi3.so
+# trying /usr/lib/python3.5/concurrent/futures/process.so
+# trying /usr/lib/python3.5/concurrent/futures/process.py
+# /usr/lib/python3.5/concurrent/futures/__pycache__/process.cpython-35.pyc matches /usr/lib/python3.5/concurrent/futures/process.py
+# code object from '/usr/lib/python3.5/concurrent/futures/__pycache__/process.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/queue.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/queue.abi3.so
+# trying /home/jjrobertson/pythonScripts/queue.so
+# trying /home/jjrobertson/pythonScripts/queue.py
+# trying /home/jjrobertson/pythonScripts/queue.pyc
+# trying /usr/lib/python3.5/queue.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/queue.abi3.so
+# trying /usr/lib/python3.5/queue.so
+# trying /usr/lib/python3.5/queue.py
+# /usr/lib/python3.5/__pycache__/queue.cpython-35.pyc matches /usr/lib/python3.5/queue.py
+# code object from '/usr/lib/python3.5/__pycache__/queue.cpython-35.pyc'
+import 'queue' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba985c0>
+# trying /home/jjrobertson/pythonScripts/multiprocessing.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/multiprocessing.abi3.so
+# trying /home/jjrobertson/pythonScripts/multiprocessing.so
+# trying /home/jjrobertson/pythonScripts/multiprocessing.py
+# trying /home/jjrobertson/pythonScripts/multiprocessing.pyc
+# /usr/lib/python3.5/multiprocessing/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/multiprocessing/__init__.py
+# code object from '/usr/lib/python3.5/multiprocessing/__pycache__/__init__.cpython-35.pyc'
+# trying /usr/lib/python3.5/multiprocessing/context.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/multiprocessing/context.abi3.so
+# trying /usr/lib/python3.5/multiprocessing/context.so
+# trying /usr/lib/python3.5/multiprocessing/context.py
+# /usr/lib/python3.5/multiprocessing/__pycache__/context.cpython-35.pyc matches /usr/lib/python3.5/multiprocessing/context.py
+# code object from '/usr/lib/python3.5/multiprocessing/__pycache__/context.cpython-35.pyc'
+# trying /usr/lib/python3.5/multiprocessing/process.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/multiprocessing/process.abi3.so
+# trying /usr/lib/python3.5/multiprocessing/process.so
+# trying /usr/lib/python3.5/multiprocessing/process.py
+# /usr/lib/python3.5/multiprocessing/__pycache__/process.cpython-35.pyc matches /usr/lib/python3.5/multiprocessing/process.py
+# code object from '/usr/lib/python3.5/multiprocessing/__pycache__/process.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/signal.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/signal.abi3.so
+# trying /home/jjrobertson/pythonScripts/signal.so
+# trying /home/jjrobertson/pythonScripts/signal.py
+# trying /home/jjrobertson/pythonScripts/signal.pyc
+# trying /usr/lib/python3.5/signal.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/signal.abi3.so
+# trying /usr/lib/python3.5/signal.so
+# trying /usr/lib/python3.5/signal.py
+# /usr/lib/python3.5/__pycache__/signal.cpython-35.pyc matches /usr/lib/python3.5/signal.py
+# code object from '/usr/lib/python3.5/__pycache__/signal.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/enum.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/enum.abi3.so
+# trying /home/jjrobertson/pythonScripts/enum.so
+# trying /home/jjrobertson/pythonScripts/enum.py
+# trying /home/jjrobertson/pythonScripts/enum.pyc
+# trying /usr/lib/python3.5/enum.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/enum.abi3.so
+# trying /usr/lib/python3.5/enum.so
+# trying /usr/lib/python3.5/enum.py
+# /usr/lib/python3.5/__pycache__/enum.cpython-35.pyc matches /usr/lib/python3.5/enum.py
+# code object from '/usr/lib/python3.5/__pycache__/enum.cpython-35.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbaad780>
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbaad048>
+import 'multiprocessing.process' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbaa7710>
+import 'multiprocessing.context' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba9b4e0>
+import 'multiprocessing' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba9b0b8>
+# trying /usr/lib/python3.5/multiprocessing/connection.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/multiprocessing/connection.abi3.so
+# trying /usr/lib/python3.5/multiprocessing/connection.so
+# trying /usr/lib/python3.5/multiprocessing/connection.py
+# /usr/lib/python3.5/multiprocessing/__pycache__/connection.cpython-35.pyc matches /usr/lib/python3.5/multiprocessing/connection.py
+# code object from '/usr/lib/python3.5/multiprocessing/__pycache__/connection.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/socket.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/socket.abi3.so
+# trying /home/jjrobertson/pythonScripts/socket.so
+# trying /home/jjrobertson/pythonScripts/socket.py
+# trying /home/jjrobertson/pythonScripts/socket.pyc
+# trying /usr/lib/python3.5/socket.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/socket.abi3.so
+# trying /usr/lib/python3.5/socket.so
+# trying /usr/lib/python3.5/socket.py
+# /usr/lib/python3.5/__pycache__/socket.cpython-35.pyc matches /usr/lib/python3.5/socket.py
+# code object from '/usr/lib/python3.5/__pycache__/socket.cpython-35.pyc'
+import '_socket' # <class '_frozen_importlib.BuiltinImporter'>
+import 'socket' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb9e8f98>
+# trying /home/jjrobertson/pythonScripts/struct.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/struct.abi3.so
+# trying /home/jjrobertson/pythonScripts/struct.so
+# trying /home/jjrobertson/pythonScripts/struct.py
+# trying /home/jjrobertson/pythonScripts/struct.pyc
+# trying /usr/lib/python3.5/struct.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/struct.abi3.so
+# trying /usr/lib/python3.5/struct.so
+# trying /usr/lib/python3.5/struct.py
+# /usr/lib/python3.5/__pycache__/struct.cpython-35.pyc matches /usr/lib/python3.5/struct.py
+# code object from '/usr/lib/python3.5/__pycache__/struct.cpython-35.pyc'
+import '_struct' # <class '_frozen_importlib.BuiltinImporter'>
+import 'struct' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb9f2550>
+# trying /home/jjrobertson/pythonScripts/tempfile.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/tempfile.abi3.so
+# trying /home/jjrobertson/pythonScripts/tempfile.so
+# trying /home/jjrobertson/pythonScripts/tempfile.py
+# trying /home/jjrobertson/pythonScripts/tempfile.pyc
+# trying /usr/lib/python3.5/tempfile.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/tempfile.abi3.so
+# trying /usr/lib/python3.5/tempfile.so
+# trying /usr/lib/python3.5/tempfile.py
+# /usr/lib/python3.5/__pycache__/tempfile.cpython-35.pyc matches /usr/lib/python3.5/tempfile.py
+# code object from '/usr/lib/python3.5/__pycache__/tempfile.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/shutil.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/shutil.abi3.so
+# trying /home/jjrobertson/pythonScripts/shutil.so
+# trying /home/jjrobertson/pythonScripts/shutil.py
+# trying /home/jjrobertson/pythonScripts/shutil.pyc
+# trying /usr/lib/python3.5/shutil.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/shutil.abi3.so
+# trying /usr/lib/python3.5/shutil.so
+# trying /usr/lib/python3.5/shutil.py
+# /usr/lib/python3.5/__pycache__/shutil.cpython-35.pyc matches /usr/lib/python3.5/shutil.py
+# code object from '/usr/lib/python3.5/__pycache__/shutil.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/fnmatch.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/fnmatch.abi3.so
+# trying /home/jjrobertson/pythonScripts/fnmatch.so
+# trying /home/jjrobertson/pythonScripts/fnmatch.py
+# trying /home/jjrobertson/pythonScripts/fnmatch.pyc
+# trying /usr/lib/python3.5/fnmatch.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/fnmatch.abi3.so
+# trying /usr/lib/python3.5/fnmatch.so
+# trying /usr/lib/python3.5/fnmatch.py
+# /usr/lib/python3.5/__pycache__/fnmatch.cpython-35.pyc matches /usr/lib/python3.5/fnmatch.py
+# code object from '/usr/lib/python3.5/__pycache__/fnmatch.cpython-35.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba1d9b0>
+# trying /home/jjrobertson/pythonScripts/tarfile.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/tarfile.abi3.so
+# trying /home/jjrobertson/pythonScripts/tarfile.so
+# trying /home/jjrobertson/pythonScripts/tarfile.py
+# trying /home/jjrobertson/pythonScripts/tarfile.pyc
+# trying /usr/lib/python3.5/tarfile.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/tarfile.abi3.so
+# trying /usr/lib/python3.5/tarfile.so
+# trying /usr/lib/python3.5/tarfile.py
+# /usr/lib/python3.5/__pycache__/tarfile.cpython-35.pyc matches /usr/lib/python3.5/tarfile.py
+# code object from '/usr/lib/python3.5/__pycache__/tarfile.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/copy.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/copy.abi3.so
+# trying /home/jjrobertson/pythonScripts/copy.so
+# trying /home/jjrobertson/pythonScripts/copy.py
+# trying /home/jjrobertson/pythonScripts/copy.pyc
+# trying /usr/lib/python3.5/copy.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/copy.abi3.so
+# trying /usr/lib/python3.5/copy.so
+# trying /usr/lib/python3.5/copy.py
+# /usr/lib/python3.5/__pycache__/copy.cpython-35.pyc matches /usr/lib/python3.5/copy.py
+# code object from '/usr/lib/python3.5/__pycache__/copy.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/org.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/org.abi3.so
+# trying /home/jjrobertson/pythonScripts/org.so
+# trying /home/jjrobertson/pythonScripts/org.py
+# trying /home/jjrobertson/pythonScripts/org.pyc
+# trying /usr/lib/python3.5/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/org.abi3.so
+# trying /usr/lib/python3.5/org.so
+# trying /usr/lib/python3.5/org.py
+# trying /usr/lib/python3.5/org.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.pyc
+# trying /usr/lib/python3.5/lib-dynload/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lib-dynload/org.abi3.so
+# trying /usr/lib/python3.5/lib-dynload/org.so
+# trying /usr/lib/python3.5/lib-dynload/org.py
+# trying /usr/lib/python3.5/lib-dynload/org.pyc
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.abi3.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.py
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.pyc
+# trying /usr/local/lib/python3.5/dist-packages/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/org.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/org.so
+# trying /usr/local/lib/python3.5/dist-packages/org.py
+# trying /usr/local/lib/python3.5/dist-packages/org.pyc
+# trying /usr/lib/python3/dist-packages/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3/dist-packages/org.abi3.so
+# trying /usr/lib/python3/dist-packages/org.so
+# trying /usr/lib/python3/dist-packages/org.py
+# trying /usr/lib/python3/dist-packages/org.pyc
+import 'copy' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb9c74e0>
+import 'grp' # <class '_frozen_importlib.BuiltinImporter'>
+import 'pwd' # <class '_frozen_importlib.BuiltinImporter'>
+import 'tarfile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba1dd68>
+# trying /home/jjrobertson/pythonScripts/bz2.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/bz2.abi3.so
+# trying /home/jjrobertson/pythonScripts/bz2.so
+# trying /home/jjrobertson/pythonScripts/bz2.py
+# trying /home/jjrobertson/pythonScripts/bz2.pyc
+# trying /usr/lib/python3.5/bz2.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/bz2.abi3.so
+# trying /usr/lib/python3.5/bz2.so
+# trying /usr/lib/python3.5/bz2.py
+# /usr/lib/python3.5/__pycache__/bz2.cpython-35.pyc matches /usr/lib/python3.5/bz2.py
+# code object from '/usr/lib/python3.5/__pycache__/bz2.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/_compression.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_compression.abi3.so
+# trying /home/jjrobertson/pythonScripts/_compression.so
+# trying /home/jjrobertson/pythonScripts/_compression.py
+# trying /home/jjrobertson/pythonScripts/_compression.pyc
+# trying /usr/lib/python3.5/_compression.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_compression.abi3.so
+# trying /usr/lib/python3.5/_compression.so
+# trying /usr/lib/python3.5/_compression.py
+# /usr/lib/python3.5/__pycache__/_compression.cpython-35.pyc matches /usr/lib/python3.5/_compression.py
+# code object from '/usr/lib/python3.5/__pycache__/_compression.cpython-35.pyc'
+import '_compression' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb9d1a20>
+# trying /home/jjrobertson/pythonScripts/_bz2.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_bz2.abi3.so
+# trying /home/jjrobertson/pythonScripts/_bz2.so
+# trying /home/jjrobertson/pythonScripts/_bz2.py
+# trying /home/jjrobertson/pythonScripts/_bz2.pyc
+# trying /usr/lib/python3.5/_bz2.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_bz2.abi3.so
+# trying /usr/lib/python3.5/_bz2.so
+# trying /usr/lib/python3.5/_bz2.py
+# trying /usr/lib/python3.5/_bz2.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_bz2.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_bz2.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_bz2.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_bz2.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_bz2.pyc
+# trying /usr/lib/python3.5/lib-dynload/_bz2.cpython-35m-x86_64-linux-gnu.so
+# extension module '_bz2' loaded from '/usr/lib/python3.5/lib-dynload/_bz2.cpython-35m-x86_64-linux-gnu.so'
+# extension module '_bz2' executed from '/usr/lib/python3.5/lib-dynload/_bz2.cpython-35m-x86_64-linux-gnu.so'
+import '_bz2' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f94fb9dc358>
+import 'bz2' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb9a9080>
+# trying /home/jjrobertson/pythonScripts/lzma.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/lzma.abi3.so
+# trying /home/jjrobertson/pythonScripts/lzma.so
+# trying /home/jjrobertson/pythonScripts/lzma.py
+# trying /home/jjrobertson/pythonScripts/lzma.pyc
+# trying /usr/lib/python3.5/lzma.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lzma.abi3.so
+# trying /usr/lib/python3.5/lzma.so
+# trying /usr/lib/python3.5/lzma.py
+# /usr/lib/python3.5/__pycache__/lzma.cpython-35.pyc matches /usr/lib/python3.5/lzma.py
+# code object from '/usr/lib/python3.5/__pycache__/lzma.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/_lzma.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_lzma.abi3.so
+# trying /home/jjrobertson/pythonScripts/_lzma.so
+# trying /home/jjrobertson/pythonScripts/_lzma.py
+# trying /home/jjrobertson/pythonScripts/_lzma.pyc
+# trying /usr/lib/python3.5/_lzma.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_lzma.abi3.so
+# trying /usr/lib/python3.5/_lzma.so
+# trying /usr/lib/python3.5/_lzma.py
+# trying /usr/lib/python3.5/_lzma.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_lzma.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_lzma.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_lzma.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_lzma.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_lzma.pyc
+# trying /usr/lib/python3.5/lib-dynload/_lzma.cpython-35m-x86_64-linux-gnu.so
+# extension module '_lzma' loaded from '/usr/lib/python3.5/lib-dynload/_lzma.cpython-35m-x86_64-linux-gnu.so'
+# extension module '_lzma' executed from '/usr/lib/python3.5/lib-dynload/_lzma.cpython-35m-x86_64-linux-gnu.so'
+import '_lzma' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f94fb9dceb8>
+import 'lzma' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb9dc630>
+import 'shutil' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba0edd8>
+# trying /home/jjrobertson/pythonScripts/random.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/random.abi3.so
+# trying /home/jjrobertson/pythonScripts/random.so
+# trying /home/jjrobertson/pythonScripts/random.py
+# trying /home/jjrobertson/pythonScripts/random.pyc
+# trying /usr/lib/python3.5/random.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/random.abi3.so
+# trying /usr/lib/python3.5/random.so
+# trying /usr/lib/python3.5/random.py
+# /usr/lib/python3.5/__pycache__/random.cpython-35.pyc matches /usr/lib/python3.5/random.py
+# code object from '/usr/lib/python3.5/__pycache__/random.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/hashlib.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/hashlib.abi3.so
+# trying /home/jjrobertson/pythonScripts/hashlib.so
+# trying /home/jjrobertson/pythonScripts/hashlib.py
+# trying /home/jjrobertson/pythonScripts/hashlib.pyc
+# trying /usr/lib/python3.5/hashlib.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/hashlib.abi3.so
+# trying /usr/lib/python3.5/hashlib.so
+# trying /usr/lib/python3.5/hashlib.py
+# /usr/lib/python3.5/__pycache__/hashlib.cpython-35.pyc matches /usr/lib/python3.5/hashlib.py
+# code object from '/usr/lib/python3.5/__pycache__/hashlib.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/_hashlib.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_hashlib.abi3.so
+# trying /home/jjrobertson/pythonScripts/_hashlib.so
+# trying /home/jjrobertson/pythonScripts/_hashlib.py
+# trying /home/jjrobertson/pythonScripts/_hashlib.pyc
+# trying /usr/lib/python3.5/_hashlib.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_hashlib.abi3.so
+# trying /usr/lib/python3.5/_hashlib.so
+# trying /usr/lib/python3.5/_hashlib.py
+# trying /usr/lib/python3.5/_hashlib.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_hashlib.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_hashlib.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_hashlib.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_hashlib.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_hashlib.pyc
+# trying /usr/lib/python3.5/lib-dynload/_hashlib.cpython-35m-x86_64-linux-gnu.so
+# extension module '_hashlib' loaded from '/usr/lib/python3.5/lib-dynload/_hashlib.cpython-35m-x86_64-linux-gnu.so'
+# extension module '_hashlib' executed from '/usr/lib/python3.5/lib-dynload/_hashlib.cpython-35m-x86_64-linux-gnu.so'
+import '_hashlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f94fb1346d8>
+import 'hashlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb12eba8>
+import '_random' # <class '_frozen_importlib.BuiltinImporter'>
+import 'random' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba0ef28>
+import 'tempfile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba04240>
+# trying /home/jjrobertson/pythonScripts/_multiprocessing.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_multiprocessing.abi3.so
+# trying /home/jjrobertson/pythonScripts/_multiprocessing.so
+# trying /home/jjrobertson/pythonScripts/_multiprocessing.py
+# trying /home/jjrobertson/pythonScripts/_multiprocessing.pyc
+# trying /usr/lib/python3.5/_multiprocessing.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_multiprocessing.abi3.so
+# trying /usr/lib/python3.5/_multiprocessing.so
+# trying /usr/lib/python3.5/_multiprocessing.py
+# trying /usr/lib/python3.5/_multiprocessing.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_multiprocessing.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_multiprocessing.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_multiprocessing.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_multiprocessing.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_multiprocessing.pyc
+# trying /usr/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-x86_64-linux-gnu.so
+# extension module '_multiprocessing' loaded from '/usr/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-x86_64-linux-gnu.so'
+# extension module '_multiprocessing' executed from '/usr/lib/python3.5/lib-dynload/_multiprocessing.cpython-35m-x86_64-linux-gnu.so'
+import '_multiprocessing' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f94fb1340b8>
+# trying /usr/lib/python3.5/multiprocessing/reduction.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/multiprocessing/reduction.abi3.so
+# trying /usr/lib/python3.5/multiprocessing/reduction.so
+# trying /usr/lib/python3.5/multiprocessing/reduction.py
+# /usr/lib/python3.5/multiprocessing/__pycache__/reduction.cpython-35.pyc matches /usr/lib/python3.5/multiprocessing/reduction.py
+# code object from '/usr/lib/python3.5/multiprocessing/__pycache__/reduction.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/pickle.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/pickle.abi3.so
+# trying /home/jjrobertson/pythonScripts/pickle.so
+# trying /home/jjrobertson/pythonScripts/pickle.py
+# trying /home/jjrobertson/pythonScripts/pickle.pyc
+# trying /usr/lib/python3.5/pickle.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/pickle.abi3.so
+# trying /usr/lib/python3.5/pickle.so
+# trying /usr/lib/python3.5/pickle.py
+# /usr/lib/python3.5/__pycache__/pickle.cpython-35.pyc matches /usr/lib/python3.5/pickle.py
+# code object from '/usr/lib/python3.5/__pycache__/pickle.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/_compat_pickle.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_compat_pickle.abi3.so
+# trying /home/jjrobertson/pythonScripts/_compat_pickle.so
+# trying /home/jjrobertson/pythonScripts/_compat_pickle.py
+# trying /home/jjrobertson/pythonScripts/_compat_pickle.pyc
+# trying /usr/lib/python3.5/_compat_pickle.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_compat_pickle.abi3.so
+# trying /usr/lib/python3.5/_compat_pickle.so
+# trying /usr/lib/python3.5/_compat_pickle.py
+# /usr/lib/python3.5/__pycache__/_compat_pickle.cpython-35.pyc matches /usr/lib/python3.5/_compat_pickle.py
+# code object from '/usr/lib/python3.5/__pycache__/_compat_pickle.cpython-35.pyc'
+import '_compat_pickle' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb156400>
+# trying /home/jjrobertson/pythonScripts/org.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/org.abi3.so
+# trying /home/jjrobertson/pythonScripts/org.so
+# trying /home/jjrobertson/pythonScripts/org.py
+# trying /home/jjrobertson/pythonScripts/org.pyc
+# trying /usr/lib/python3.5/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/org.abi3.so
+# trying /usr/lib/python3.5/org.so
+# trying /usr/lib/python3.5/org.py
+# trying /usr/lib/python3.5/org.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/org.pyc
+# trying /usr/lib/python3.5/lib-dynload/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lib-dynload/org.abi3.so
+# trying /usr/lib/python3.5/lib-dynload/org.so
+# trying /usr/lib/python3.5/lib-dynload/org.py
+# trying /usr/lib/python3.5/lib-dynload/org.pyc
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.abi3.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.py
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/org.pyc
+# trying /usr/local/lib/python3.5/dist-packages/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/org.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/org.so
+# trying /usr/local/lib/python3.5/dist-packages/org.py
+# trying /usr/local/lib/python3.5/dist-packages/org.pyc
+# trying /usr/lib/python3/dist-packages/org.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3/dist-packages/org.abi3.so
+# trying /usr/lib/python3/dist-packages/org.so
+# trying /usr/lib/python3/dist-packages/org.py
+# trying /usr/lib/python3/dist-packages/org.pyc
+import '_pickle' # <class '_frozen_importlib.BuiltinImporter'>
+import 'pickle' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb13a4e0>
+import 'array' # <class '_frozen_importlib.BuiltinImporter'>
+import 'multiprocessing.reduction' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb134128>
+# trying /usr/lib/python3.5/multiprocessing/util.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/multiprocessing/util.abi3.so
+# trying /usr/lib/python3.5/multiprocessing/util.so
+# trying /usr/lib/python3.5/multiprocessing/util.py
+# /usr/lib/python3.5/multiprocessing/__pycache__/util.cpython-35.pyc matches /usr/lib/python3.5/multiprocessing/util.py
+# code object from '/usr/lib/python3.5/multiprocessing/__pycache__/util.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/subprocess.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/subprocess.abi3.so
+# trying /home/jjrobertson/pythonScripts/subprocess.so
+# trying /home/jjrobertson/pythonScripts/subprocess.py
+# trying /home/jjrobertson/pythonScripts/subprocess.pyc
+# trying /usr/lib/python3.5/subprocess.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/subprocess.abi3.so
+# trying /usr/lib/python3.5/subprocess.so
+# trying /usr/lib/python3.5/subprocess.py
+# /usr/lib/python3.5/__pycache__/subprocess.cpython-35.pyc matches /usr/lib/python3.5/subprocess.py
+# code object from '/usr/lib/python3.5/__pycache__/subprocess.cpython-35.pyc'
+import '_posixsubprocess' # <class '_frozen_importlib.BuiltinImporter'>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb15fb00>
+import 'multiprocessing.util' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fb134c88>
+# trying /home/jjrobertson/pythonScripts/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_winapi.abi3.so
+# trying /home/jjrobertson/pythonScripts/_winapi.so
+# trying /home/jjrobertson/pythonScripts/_winapi.py
+# trying /home/jjrobertson/pythonScripts/_winapi.pyc
+# trying /usr/lib/python3.5/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_winapi.abi3.so
+# trying /usr/lib/python3.5/_winapi.so
+# trying /usr/lib/python3.5/_winapi.py
+# trying /usr/lib/python3.5/_winapi.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_winapi.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_winapi.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_winapi.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_winapi.pyc
+# trying /usr/lib/python3.5/lib-dynload/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lib-dynload/_winapi.abi3.so
+# trying /usr/lib/python3.5/lib-dynload/_winapi.so
+# trying /usr/lib/python3.5/lib-dynload/_winapi.py
+# trying /usr/lib/python3.5/lib-dynload/_winapi.pyc
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/_winapi.abi3.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/_winapi.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/_winapi.py
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/_winapi.pyc
+# trying /usr/local/lib/python3.5/dist-packages/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/_winapi.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/_winapi.so
+# trying /usr/local/lib/python3.5/dist-packages/_winapi.py
+# trying /usr/local/lib/python3.5/dist-packages/_winapi.pyc
+# trying /usr/lib/python3/dist-packages/_winapi.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3/dist-packages/_winapi.abi3.so
+# trying /usr/lib/python3/dist-packages/_winapi.so
+# trying /usr/lib/python3/dist-packages/_winapi.py
+# trying /usr/lib/python3/dist-packages/_winapi.pyc
+import 'multiprocessing.connection' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba9b208>
+import 'concurrent.futures.process' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fba94a58>
+# trying /usr/lib/python3.5/concurrent/futures/thread.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/concurrent/futures/thread.abi3.so
+# trying /usr/lib/python3.5/concurrent/futures/thread.so
+# trying /usr/lib/python3.5/concurrent/futures/thread.py
+# /usr/lib/python3.5/concurrent/futures/__pycache__/thread.cpython-35.pyc matches /usr/lib/python3.5/concurrent/futures/thread.py
+# code object from '/usr/lib/python3.5/concurrent/futures/__pycache__/thread.cpython-35.pyc'
+import 'concurrent.futures.thread' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbac4a20>
+import 'concurrent.futures' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbb46f28>
+# trying /home/jjrobertson/pythonScripts/inspect.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/inspect.abi3.so
+# trying /home/jjrobertson/pythonScripts/inspect.so
+# trying /home/jjrobertson/pythonScripts/inspect.py
+# trying /home/jjrobertson/pythonScripts/inspect.pyc
+# trying /usr/lib/python3.5/inspect.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/inspect.abi3.so
+# trying /usr/lib/python3.5/inspect.so
+# trying /usr/lib/python3.5/inspect.py
+# /usr/lib/python3.5/__pycache__/inspect.cpython-35.pyc matches /usr/lib/python3.5/inspect.py
+# code object from '/usr/lib/python3.5/__pycache__/inspect.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/ast.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/ast.abi3.so
+# trying /home/jjrobertson/pythonScripts/ast.so
+# trying /home/jjrobertson/pythonScripts/ast.py
+# trying /home/jjrobertson/pythonScripts/ast.pyc
+# trying /usr/lib/python3.5/ast.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/ast.abi3.so
+# trying /usr/lib/python3.5/ast.so
+# trying /usr/lib/python3.5/ast.py
+# /usr/lib/python3.5/__pycache__/ast.cpython-35.pyc matches /usr/lib/python3.5/ast.py
+# code object from '/usr/lib/python3.5/__pycache__/ast.cpython-35.pyc'
+import '_ast' # <class '_frozen_importlib.BuiltinImporter'>
+import 'ast' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa8c1a20>
+# trying /home/jjrobertson/pythonScripts/dis.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/dis.abi3.so
+# trying /home/jjrobertson/pythonScripts/dis.so
+# trying /home/jjrobertson/pythonScripts/dis.py
+# trying /home/jjrobertson/pythonScripts/dis.pyc
+# trying /usr/lib/python3.5/dis.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/dis.abi3.so
+# trying /usr/lib/python3.5/dis.so
+# trying /usr/lib/python3.5/dis.py
+# /usr/lib/python3.5/__pycache__/dis.cpython-35.pyc matches /usr/lib/python3.5/dis.py
+# code object from '/usr/lib/python3.5/__pycache__/dis.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/opcode.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/opcode.abi3.so
+# trying /home/jjrobertson/pythonScripts/opcode.so
+# trying /home/jjrobertson/pythonScripts/opcode.py
+# trying /home/jjrobertson/pythonScripts/opcode.pyc
+# trying /usr/lib/python3.5/opcode.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/opcode.abi3.so
+# trying /usr/lib/python3.5/opcode.so
+# trying /usr/lib/python3.5/opcode.py
+# /usr/lib/python3.5/__pycache__/opcode.cpython-35.pyc matches /usr/lib/python3.5/opcode.py
+# code object from '/usr/lib/python3.5/__pycache__/opcode.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/_opcode.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_opcode.abi3.so
+# trying /home/jjrobertson/pythonScripts/_opcode.so
+# trying /home/jjrobertson/pythonScripts/_opcode.py
+# trying /home/jjrobertson/pythonScripts/_opcode.pyc
+# trying /usr/lib/python3.5/_opcode.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_opcode.abi3.so
+# trying /usr/lib/python3.5/_opcode.so
+# trying /usr/lib/python3.5/_opcode.py
+# trying /usr/lib/python3.5/_opcode.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_opcode.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_opcode.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_opcode.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_opcode.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_opcode.pyc
+# trying /usr/lib/python3.5/lib-dynload/_opcode.cpython-35m-x86_64-linux-gnu.so
+# extension module '_opcode' loaded from '/usr/lib/python3.5/lib-dynload/_opcode.cpython-35m-x86_64-linux-gnu.so'
+# extension module '_opcode' executed from '/usr/lib/python3.5/lib-dynload/_opcode.cpython-35m-x86_64-linux-gnu.so'
+import '_opcode' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f94fa86c940>
+import 'opcode' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa86c208>
+import 'dis' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa865550>
+# trying /home/jjrobertson/pythonScripts/importlib.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/importlib.abi3.so
+# trying /home/jjrobertson/pythonScripts/importlib.so
+# trying /home/jjrobertson/pythonScripts/importlib.py
+# trying /home/jjrobertson/pythonScripts/importlib.pyc
+# /usr/lib/python3.5/importlib/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/importlib/__init__.py
+# code object from '/usr/lib/python3.5/importlib/__pycache__/__init__.cpython-35.pyc'
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa8750f0>
+# trying /usr/lib/python3.5/importlib/machinery.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/importlib/machinery.abi3.so
+# trying /usr/lib/python3.5/importlib/machinery.so
+# trying /usr/lib/python3.5/importlib/machinery.py
+# /usr/lib/python3.5/importlib/__pycache__/machinery.cpython-35.pyc matches /usr/lib/python3.5/importlib/machinery.py
+# code object from '/usr/lib/python3.5/importlib/__pycache__/machinery.cpython-35.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa874e10>
+import 'inspect' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fbac4be0>
+# trying /usr/lib/python3.5/asyncio/compat.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/compat.abi3.so
+# trying /usr/lib/python3.5/asyncio/compat.so
+# trying /usr/lib/python3.5/asyncio/compat.py
+# /usr/lib/python3.5/asyncio/__pycache__/compat.cpython-35.pyc matches /usr/lib/python3.5/asyncio/compat.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/compat.cpython-35.pyc'
+import 'asyncio.compat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa8803c8>
+# trying /usr/lib/python3.5/asyncio/coroutines.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/coroutines.abi3.so
+# trying /usr/lib/python3.5/asyncio/coroutines.so
+# trying /usr/lib/python3.5/asyncio/coroutines.py
+# /usr/lib/python3.5/asyncio/__pycache__/coroutines.cpython-35.pyc matches /usr/lib/python3.5/asyncio/coroutines.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/coroutines.cpython-35.pyc'
+# trying /usr/lib/python3.5/asyncio/events.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/events.abi3.so
+# trying /usr/lib/python3.5/asyncio/events.so
+# trying /usr/lib/python3.5/asyncio/events.py
+# /usr/lib/python3.5/asyncio/__pycache__/events.cpython-35.pyc matches /usr/lib/python3.5/asyncio/events.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/events.cpython-35.pyc'
+import 'asyncio.events' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa882470>
+# trying /usr/lib/python3.5/asyncio/futures.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/futures.abi3.so
+# trying /usr/lib/python3.5/asyncio/futures.so
+# trying /usr/lib/python3.5/asyncio/futures.py
+# /usr/lib/python3.5/asyncio/__pycache__/futures.cpython-35.pyc matches /usr/lib/python3.5/asyncio/futures.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/futures.cpython-35.pyc'
+import 'asyncio.futures' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa6209b0>
+# trying /usr/lib/python3.5/asyncio/log.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/log.abi3.so
+# trying /usr/lib/python3.5/asyncio/log.so
+# trying /usr/lib/python3.5/asyncio/log.py
+# /usr/lib/python3.5/asyncio/__pycache__/log.cpython-35.pyc matches /usr/lib/python3.5/asyncio/log.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/log.cpython-35.pyc'
+import 'asyncio.log' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa62c390>
+import 'asyncio.coroutines' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa880550>
+# trying /usr/lib/python3.5/asyncio/tasks.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/tasks.abi3.so
+# trying /usr/lib/python3.5/asyncio/tasks.so
+# trying /usr/lib/python3.5/asyncio/tasks.py
+# /usr/lib/python3.5/asyncio/__pycache__/tasks.cpython-35.pyc matches /usr/lib/python3.5/asyncio/tasks.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/tasks.cpython-35.pyc'
+import 'asyncio.tasks' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa882240>
+import 'asyncio.base_events' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd05c668>
+# trying /usr/lib/python3.5/asyncio/locks.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/locks.abi3.so
+# trying /usr/lib/python3.5/asyncio/locks.so
+# trying /usr/lib/python3.5/asyncio/locks.py
+# /usr/lib/python3.5/asyncio/__pycache__/locks.cpython-35.pyc matches /usr/lib/python3.5/asyncio/locks.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/locks.cpython-35.pyc'
+import 'asyncio.locks' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa880ac8>
+# trying /usr/lib/python3.5/asyncio/protocols.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/protocols.abi3.so
+# trying /usr/lib/python3.5/asyncio/protocols.so
+# trying /usr/lib/python3.5/asyncio/protocols.py
+# /usr/lib/python3.5/asyncio/__pycache__/protocols.cpython-35.pyc matches /usr/lib/python3.5/asyncio/protocols.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/protocols.cpython-35.pyc'
+import 'asyncio.protocols' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa63bcc0>
+# trying /usr/lib/python3.5/asyncio/queues.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/queues.abi3.so
+# trying /usr/lib/python3.5/asyncio/queues.so
+# trying /usr/lib/python3.5/asyncio/queues.py
+# /usr/lib/python3.5/asyncio/__pycache__/queues.cpython-35.pyc matches /usr/lib/python3.5/asyncio/queues.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/queues.cpython-35.pyc'
+import 'asyncio.queues' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa63bda0>
+# trying /usr/lib/python3.5/asyncio/streams.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/streams.abi3.so
+# trying /usr/lib/python3.5/asyncio/streams.so
+# trying /usr/lib/python3.5/asyncio/streams.py
+# /usr/lib/python3.5/asyncio/__pycache__/streams.cpython-35.pyc matches /usr/lib/python3.5/asyncio/streams.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/streams.cpython-35.pyc'
+import 'asyncio.streams' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa6469b0>
+# trying /usr/lib/python3.5/asyncio/subprocess.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/subprocess.abi3.so
+# trying /usr/lib/python3.5/asyncio/subprocess.so
+# trying /usr/lib/python3.5/asyncio/subprocess.py
+# /usr/lib/python3.5/asyncio/__pycache__/subprocess.cpython-35.pyc matches /usr/lib/python3.5/asyncio/subprocess.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/subprocess.cpython-35.pyc'
+import 'asyncio.subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa64fe10>
+# trying /usr/lib/python3.5/asyncio/transports.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/transports.abi3.so
+# trying /usr/lib/python3.5/asyncio/transports.so
+# trying /usr/lib/python3.5/asyncio/transports.py
+# /usr/lib/python3.5/asyncio/__pycache__/transports.cpython-35.pyc matches /usr/lib/python3.5/asyncio/transports.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/transports.cpython-35.pyc'
+import 'asyncio.transports' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa6525c0>
+# trying /usr/lib/python3.5/asyncio/unix_events.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/unix_events.abi3.so
+# trying /usr/lib/python3.5/asyncio/unix_events.so
+# trying /usr/lib/python3.5/asyncio/unix_events.py
+# /usr/lib/python3.5/asyncio/__pycache__/unix_events.cpython-35.pyc matches /usr/lib/python3.5/asyncio/unix_events.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/unix_events.cpython-35.pyc'
+# trying /usr/lib/python3.5/asyncio/base_subprocess.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/base_subprocess.abi3.so
+# trying /usr/lib/python3.5/asyncio/base_subprocess.so
+# trying /usr/lib/python3.5/asyncio/base_subprocess.py
+# /usr/lib/python3.5/asyncio/__pycache__/base_subprocess.cpython-35.pyc matches /usr/lib/python3.5/asyncio/base_subprocess.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/base_subprocess.cpython-35.pyc'
+import 'asyncio.base_subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa5f1390>
+# trying /usr/lib/python3.5/asyncio/constants.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/constants.abi3.so
+# trying /usr/lib/python3.5/asyncio/constants.so
+# trying /usr/lib/python3.5/asyncio/constants.py
+# /usr/lib/python3.5/asyncio/__pycache__/constants.cpython-35.pyc matches /usr/lib/python3.5/asyncio/constants.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/constants.cpython-35.pyc'
+import 'asyncio.constants' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa5f7128>
+# trying /usr/lib/python3.5/asyncio/selector_events.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/selector_events.abi3.so
+# trying /usr/lib/python3.5/asyncio/selector_events.so
+# trying /usr/lib/python3.5/asyncio/selector_events.py
+# /usr/lib/python3.5/asyncio/__pycache__/selector_events.cpython-35.pyc matches /usr/lib/python3.5/asyncio/selector_events.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/selector_events.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/ssl.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/ssl.abi3.so
+# trying /home/jjrobertson/pythonScripts/ssl.so
+# trying /home/jjrobertson/pythonScripts/ssl.py
+# trying /home/jjrobertson/pythonScripts/ssl.pyc
+# trying /usr/lib/python3.5/ssl.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/ssl.abi3.so
+# trying /usr/lib/python3.5/ssl.so
+# trying /usr/lib/python3.5/ssl.py
+# /usr/lib/python3.5/__pycache__/ssl.cpython-35.pyc matches /usr/lib/python3.5/ssl.py
+# code object from '/usr/lib/python3.5/__pycache__/ssl.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/ipaddress.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/ipaddress.abi3.so
+# trying /home/jjrobertson/pythonScripts/ipaddress.so
+# trying /home/jjrobertson/pythonScripts/ipaddress.py
+# trying /home/jjrobertson/pythonScripts/ipaddress.pyc
+# trying /usr/lib/python3.5/ipaddress.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/ipaddress.abi3.so
+# trying /usr/lib/python3.5/ipaddress.so
+# trying /usr/lib/python3.5/ipaddress.py
+# /usr/lib/python3.5/__pycache__/ipaddress.cpython-35.pyc matches /usr/lib/python3.5/ipaddress.py
+# code object from '/usr/lib/python3.5/__pycache__/ipaddress.cpython-35.pyc'
+import 'ipaddress' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa612b70>
+# trying /home/jjrobertson/pythonScripts/textwrap.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/textwrap.abi3.so
+# trying /home/jjrobertson/pythonScripts/textwrap.so
+# trying /home/jjrobertson/pythonScripts/textwrap.py
+# trying /home/jjrobertson/pythonScripts/textwrap.pyc
+# trying /usr/lib/python3.5/textwrap.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/textwrap.abi3.so
+# trying /usr/lib/python3.5/textwrap.so
+# trying /usr/lib/python3.5/textwrap.py
+# /usr/lib/python3.5/__pycache__/textwrap.cpython-35.pyc matches /usr/lib/python3.5/textwrap.py
+# code object from '/usr/lib/python3.5/__pycache__/textwrap.cpython-35.pyc'
+import 'textwrap' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa5ad128>
+# trying /home/jjrobertson/pythonScripts/_ssl.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/_ssl.abi3.so
+# trying /home/jjrobertson/pythonScripts/_ssl.so
+# trying /home/jjrobertson/pythonScripts/_ssl.py
+# trying /home/jjrobertson/pythonScripts/_ssl.pyc
+# trying /usr/lib/python3.5/_ssl.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/_ssl.abi3.so
+# trying /usr/lib/python3.5/_ssl.so
+# trying /usr/lib/python3.5/_ssl.py
+# trying /usr/lib/python3.5/_ssl.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_ssl.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_ssl.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_ssl.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_ssl.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/_ssl.pyc
+# trying /usr/lib/python3.5/lib-dynload/_ssl.cpython-35m-x86_64-linux-gnu.so
+# extension module '_ssl' loaded from '/usr/lib/python3.5/lib-dynload/_ssl.cpython-35m-x86_64-linux-gnu.so'
+# extension module '_ssl' executed from '/usr/lib/python3.5/lib-dynload/_ssl.cpython-35m-x86_64-linux-gnu.so'
+import '_ssl' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f94fa5c7dd8>
+# trying /home/jjrobertson/pythonScripts/base64.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/base64.abi3.so
+# trying /home/jjrobertson/pythonScripts/base64.so
+# trying /home/jjrobertson/pythonScripts/base64.py
+# trying /home/jjrobertson/pythonScripts/base64.pyc
+# trying /usr/lib/python3.5/base64.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/base64.abi3.so
+# trying /usr/lib/python3.5/base64.so
+# trying /usr/lib/python3.5/base64.py
+# /usr/lib/python3.5/__pycache__/base64.cpython-35.pyc matches /usr/lib/python3.5/base64.py
+# code object from '/usr/lib/python3.5/__pycache__/base64.cpython-35.pyc'
+import 'binascii' # <class '_frozen_importlib.BuiltinImporter'>
+import 'base64' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0ce2b0>
+import 'ssl' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa6037f0>
+# trying /usr/lib/python3.5/asyncio/sslproto.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/asyncio/sslproto.abi3.so
+# trying /usr/lib/python3.5/asyncio/sslproto.so
+# trying /usr/lib/python3.5/asyncio/sslproto.py
+# /usr/lib/python3.5/asyncio/__pycache__/sslproto.cpython-35.pyc matches /usr/lib/python3.5/asyncio/sslproto.py
+# code object from '/usr/lib/python3.5/asyncio/__pycache__/sslproto.cpython-35.pyc'
+import 'asyncio.sslproto' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0e8240>
+import 'asyncio.selector_events' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa5f71d0>
+import 'asyncio.unix_events' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa652eb8>
+import 'asyncio' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fd051ba8>
+# trying /home/jjrobertson/pythonScripts/datetime.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/datetime.abi3.so
+# trying /home/jjrobertson/pythonScripts/datetime.so
+# trying /home/jjrobertson/pythonScripts/datetime.py
+# trying /home/jjrobertson/pythonScripts/datetime.pyc
+# trying /usr/lib/python3.5/datetime.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/datetime.abi3.so
+# trying /usr/lib/python3.5/datetime.so
+# trying /usr/lib/python3.5/datetime.py
+# /usr/lib/python3.5/__pycache__/datetime.cpython-35.pyc matches /usr/lib/python3.5/datetime.py
+# code object from '/usr/lib/python3.5/__pycache__/datetime.cpython-35.pyc'
+import '_datetime' # <class '_frozen_importlib.BuiltinImporter'>
+import 'datetime' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa652ef0>
+# trying /home/jjrobertson/pythonScripts/websockets.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/websockets.abi3.so
+# trying /home/jjrobertson/pythonScripts/websockets.so
+# trying /home/jjrobertson/pythonScripts/websockets.py
+# trying /home/jjrobertson/pythonScripts/websockets.pyc
+# trying /usr/lib/python3.5/websockets.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/websockets.abi3.so
+# trying /usr/lib/python3.5/websockets.so
+# trying /usr/lib/python3.5/websockets.py
+# trying /usr/lib/python3.5/websockets.pyc
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/websockets.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/websockets.abi3.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/websockets.so
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/websockets.py
+# trying /usr/lib/python3.5/plat-x86_64-linux-gnu/websockets.pyc
+# trying /usr/lib/python3.5/lib-dynload/websockets.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/lib-dynload/websockets.abi3.so
+# trying /usr/lib/python3.5/lib-dynload/websockets.so
+# trying /usr/lib/python3.5/lib-dynload/websockets.py
+# trying /usr/lib/python3.5/lib-dynload/websockets.pyc
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/websockets.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/websockets.abi3.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/websockets.so
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/websockets.py
+# trying /home/jjrobertson/.local/lib/python3.5/site-packages/websockets.pyc
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/__init__.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/__init__.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/__init__.cpython-35.pyc'
+# trying /usr/local/lib/python3.5/dist-packages/websockets/client.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/client.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/client.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/client.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/client.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/client.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/client.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/email.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/email.abi3.so
+# trying /home/jjrobertson/pythonScripts/email.so
+# trying /home/jjrobertson/pythonScripts/email.py
+# trying /home/jjrobertson/pythonScripts/email.pyc
+# /usr/lib/python3.5/email/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/email/__init__.py
+# code object from '/usr/lib/python3.5/email/__pycache__/__init__.cpython-35.pyc'
+import 'email' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0ae208>
+# trying /usr/lib/python3.5/email/message.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/message.abi3.so
+# trying /usr/lib/python3.5/email/message.so
+# trying /usr/lib/python3.5/email/message.py
+# /usr/lib/python3.5/email/__pycache__/message.cpython-35.pyc matches /usr/lib/python3.5/email/message.py
+# code object from '/usr/lib/python3.5/email/__pycache__/message.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/uu.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/uu.abi3.so
+# trying /home/jjrobertson/pythonScripts/uu.so
+# trying /home/jjrobertson/pythonScripts/uu.py
+# trying /home/jjrobertson/pythonScripts/uu.pyc
+# trying /usr/lib/python3.5/uu.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/uu.abi3.so
+# trying /usr/lib/python3.5/uu.so
+# trying /usr/lib/python3.5/uu.py
+# /usr/lib/python3.5/__pycache__/uu.cpython-35.pyc matches /usr/lib/python3.5/uu.py
+# code object from '/usr/lib/python3.5/__pycache__/uu.cpython-35.pyc'
+import 'uu' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0c0278>
+# trying /home/jjrobertson/pythonScripts/quopri.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/quopri.abi3.so
+# trying /home/jjrobertson/pythonScripts/quopri.so
+# trying /home/jjrobertson/pythonScripts/quopri.py
+# trying /home/jjrobertson/pythonScripts/quopri.pyc
+# trying /usr/lib/python3.5/quopri.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/quopri.abi3.so
+# trying /usr/lib/python3.5/quopri.so
+# trying /usr/lib/python3.5/quopri.py
+# /usr/lib/python3.5/__pycache__/quopri.cpython-35.pyc matches /usr/lib/python3.5/quopri.py
+# code object from '/usr/lib/python3.5/__pycache__/quopri.cpython-35.pyc'
+import 'quopri' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0c0400>
+# trying /usr/lib/python3.5/email/utils.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/utils.abi3.so
+# trying /usr/lib/python3.5/email/utils.so
+# trying /usr/lib/python3.5/email/utils.py
+# /usr/lib/python3.5/email/__pycache__/utils.cpython-35.pyc matches /usr/lib/python3.5/email/utils.py
+# code object from '/usr/lib/python3.5/email/__pycache__/utils.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/urllib.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/urllib.abi3.so
+# trying /home/jjrobertson/pythonScripts/urllib.so
+# trying /home/jjrobertson/pythonScripts/urllib.py
+# trying /home/jjrobertson/pythonScripts/urllib.pyc
+# /usr/lib/python3.5/urllib/__pycache__/__init__.cpython-35.pyc matches /usr/lib/python3.5/urllib/__init__.py
+# code object from '/usr/lib/python3.5/urllib/__pycache__/__init__.cpython-35.pyc'
+import 'urllib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0c96d8>
+# trying /usr/lib/python3.5/urllib/parse.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/urllib/parse.abi3.so
+# trying /usr/lib/python3.5/urllib/parse.so
+# trying /usr/lib/python3.5/urllib/parse.py
+# /usr/lib/python3.5/urllib/__pycache__/parse.cpython-35.pyc matches /usr/lib/python3.5/urllib/parse.py
+# code object from '/usr/lib/python3.5/urllib/__pycache__/parse.cpython-35.pyc'
+import 'urllib.parse' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0c97b8>
+# trying /usr/lib/python3.5/email/_parseaddr.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/_parseaddr.abi3.so
+# trying /usr/lib/python3.5/email/_parseaddr.so
+# trying /usr/lib/python3.5/email/_parseaddr.py
+# /usr/lib/python3.5/email/__pycache__/_parseaddr.cpython-35.pyc matches /usr/lib/python3.5/email/_parseaddr.py
+# code object from '/usr/lib/python3.5/email/__pycache__/_parseaddr.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/calendar.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/calendar.abi3.so
+# trying /home/jjrobertson/pythonScripts/calendar.so
+# trying /home/jjrobertson/pythonScripts/calendar.py
+# trying /home/jjrobertson/pythonScripts/calendar.pyc
+# trying /usr/lib/python3.5/calendar.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/calendar.abi3.so
+# trying /usr/lib/python3.5/calendar.so
+# trying /usr/lib/python3.5/calendar.py
+# /usr/lib/python3.5/__pycache__/calendar.cpython-35.pyc matches /usr/lib/python3.5/calendar.py
+# code object from '/usr/lib/python3.5/__pycache__/calendar.cpython-35.pyc'
+# trying /home/jjrobertson/pythonScripts/locale.cpython-35m-x86_64-linux-gnu.so
+# trying /home/jjrobertson/pythonScripts/locale.abi3.so
+# trying /home/jjrobertson/pythonScripts/locale.so
+# trying /home/jjrobertson/pythonScripts/locale.py
+# trying /home/jjrobertson/pythonScripts/locale.pyc
+# trying /usr/lib/python3.5/locale.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/locale.abi3.so
+# trying /usr/lib/python3.5/locale.so
+# trying /usr/lib/python3.5/locale.py
+# /usr/lib/python3.5/__pycache__/locale.cpython-35.pyc matches /usr/lib/python3.5/locale.py
+# code object from '/usr/lib/python3.5/__pycache__/locale.cpython-35.pyc'
+import 'locale' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa075ba8>
+import 'calendar' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa066b38>
+import 'email._parseaddr' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa07b4e0>
+# trying /usr/lib/python3.5/email/charset.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/charset.abi3.so
+# trying /usr/lib/python3.5/email/charset.so
+# trying /usr/lib/python3.5/email/charset.py
+# /usr/lib/python3.5/email/__pycache__/charset.cpython-35.pyc matches /usr/lib/python3.5/email/charset.py
+# code object from '/usr/lib/python3.5/email/__pycache__/charset.cpython-35.pyc'
+# trying /usr/lib/python3.5/email/base64mime.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/base64mime.abi3.so
+# trying /usr/lib/python3.5/email/base64mime.so
+# trying /usr/lib/python3.5/email/base64mime.py
+# /usr/lib/python3.5/email/__pycache__/base64mime.cpython-35.pyc matches /usr/lib/python3.5/email/base64mime.py
+# code object from '/usr/lib/python3.5/email/__pycache__/base64mime.cpython-35.pyc'
+import 'email.base64mime' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa01f978>
+# trying /usr/lib/python3.5/email/quoprimime.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/quoprimime.abi3.so
+# trying /usr/lib/python3.5/email/quoprimime.so
+# trying /usr/lib/python3.5/email/quoprimime.py
+# /usr/lib/python3.5/email/__pycache__/quoprimime.cpython-35.pyc matches /usr/lib/python3.5/email/quoprimime.py
+# code object from '/usr/lib/python3.5/email/__pycache__/quoprimime.cpython-35.pyc'
+import 'email.quoprimime' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa01fba8>
+# trying /usr/lib/python3.5/email/errors.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/errors.abi3.so
+# trying /usr/lib/python3.5/email/errors.so
+# trying /usr/lib/python3.5/email/errors.py
+# /usr/lib/python3.5/email/__pycache__/errors.cpython-35.pyc matches /usr/lib/python3.5/email/errors.py
+# code object from '/usr/lib/python3.5/email/__pycache__/errors.cpython-35.pyc'
+import 'email.errors' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa027be0>
+# trying /usr/lib/python3.5/email/encoders.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/encoders.abi3.so
+# trying /usr/lib/python3.5/email/encoders.so
+# trying /usr/lib/python3.5/email/encoders.py
+# /usr/lib/python3.5/email/__pycache__/encoders.cpython-35.pyc matches /usr/lib/python3.5/email/encoders.py
+# code object from '/usr/lib/python3.5/email/__pycache__/encoders.cpython-35.pyc'
+import 'email.encoders' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa027b38>
+import 'email.charset' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa017dd8>
+import 'email.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0c0a58>
+# trying /usr/lib/python3.5/email/_policybase.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/_policybase.abi3.so
+# trying /usr/lib/python3.5/email/_policybase.so
+# trying /usr/lib/python3.5/email/_policybase.py
+# /usr/lib/python3.5/email/__pycache__/_policybase.cpython-35.pyc matches /usr/lib/python3.5/email/_policybase.py
+# code object from '/usr/lib/python3.5/email/__pycache__/_policybase.cpython-35.pyc'
+# trying /usr/lib/python3.5/email/header.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/header.abi3.so
+# trying /usr/lib/python3.5/email/header.so
+# trying /usr/lib/python3.5/email/header.py
+# /usr/lib/python3.5/email/__pycache__/header.cpython-35.pyc matches /usr/lib/python3.5/email/header.py
+# code object from '/usr/lib/python3.5/email/__pycache__/header.cpython-35.pyc'
+import 'email.header' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa02ae48>
+import 'email._policybase' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa01f828>
+# trying /usr/lib/python3.5/email/_encoded_words.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/_encoded_words.abi3.so
+# trying /usr/lib/python3.5/email/_encoded_words.so
+# trying /usr/lib/python3.5/email/_encoded_words.py
+# /usr/lib/python3.5/email/__pycache__/_encoded_words.cpython-35.pyc matches /usr/lib/python3.5/email/_encoded_words.py
+# code object from '/usr/lib/python3.5/email/__pycache__/_encoded_words.cpython-35.pyc'
+import 'email._encoded_words' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa033fd0>
+# trying /usr/lib/python3.5/email/iterators.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/iterators.abi3.so
+# trying /usr/lib/python3.5/email/iterators.so
+# trying /usr/lib/python3.5/email/iterators.py
+# /usr/lib/python3.5/email/__pycache__/iterators.cpython-35.pyc matches /usr/lib/python3.5/email/iterators.py
+# code object from '/usr/lib/python3.5/email/__pycache__/iterators.cpython-35.pyc'
+import 'email.iterators' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa03c748>
+import 'email.message' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0ae470>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/exceptions.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/exceptions.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/exceptions.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/exceptions.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/exceptions.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/exceptions.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/exceptions.cpython-35.pyc'
+import 'websockets.exceptions' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa03c940>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/handshake.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/handshake.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/handshake.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/handshake.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/handshake.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/handshake.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/handshake.cpython-35.pyc'
+import 'websockets.handshake' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa03c9b0>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/http.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/http.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/http.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/http.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/http.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/http.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/http.cpython-35.pyc'
+# trying /usr/lib/python3.5/email/parser.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/parser.abi3.so
+# trying /usr/lib/python3.5/email/parser.so
+# trying /usr/lib/python3.5/email/parser.py
+# /usr/lib/python3.5/email/__pycache__/parser.cpython-35.pyc matches /usr/lib/python3.5/email/parser.py
+# code object from '/usr/lib/python3.5/email/__pycache__/parser.cpython-35.pyc'
+# trying /usr/lib/python3.5/email/feedparser.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/email/feedparser.abi3.so
+# trying /usr/lib/python3.5/email/feedparser.so
+# trying /usr/lib/python3.5/email/feedparser.py
+# /usr/lib/python3.5/email/__pycache__/feedparser.cpython-35.pyc matches /usr/lib/python3.5/email/feedparser.py
+# code object from '/usr/lib/python3.5/email/__pycache__/feedparser.cpython-35.pyc'
+import 'email.feedparser' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa048390>
+import 'email.parser' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa03cf98>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/version.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/version.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/version.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/version.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/version.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/version.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/version.cpython-35.pyc'
+import 'websockets.version' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa048f28>
+import 'websockets.http' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa03ce10>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/protocol.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/protocol.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/protocol.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/protocol.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/protocol.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/protocol.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/protocol.cpython-35.pyc'
+# trying /usr/local/lib/python3.5/dist-packages/websockets/compatibility.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/compatibility.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/compatibility.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/compatibility.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/compatibility.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/compatibility.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/compatibility.cpython-35.pyc'
+import 'websockets.compatibility' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fd2a90>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/framing.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/framing.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/framing.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/framing.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/framing.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/framing.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/framing.cpython-35.pyc'
+import 'websockets.framing' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fd2b70>
+import 'websockets.protocol' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa048ef0>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/uri.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/uri.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/uri.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/uri.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/uri.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/uri.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/uri.cpython-35.pyc'
+import 'websockets.uri' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fdb668>
+# /usr/local/lib/python3.5/dist-packages/websockets/py35/__pycache__/__init__.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/py35/__init__.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/py35/__pycache__/__init__.cpython-35.pyc'
+import 'websockets.py35' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fdbd30>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/py35/client.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/py35/client.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/py35/client.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/py35/client.py
+# /usr/local/lib/python3.5/dist-packages/websockets/py35/__pycache__/client.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/py35/client.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/py35/__pycache__/client.cpython-35.pyc'
+import 'websockets.py35.client' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fdbe48>
+import 'websockets.client' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa0fb2e8>
+# trying /usr/local/lib/python3.5/dist-packages/websockets/server.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/server.abi3.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/server.so
+# trying /usr/local/lib/python3.5/dist-packages/websockets/server.py
+# /usr/local/lib/python3.5/dist-packages/websockets/__pycache__/server.cpython-35.pyc matches /usr/local/lib/python3.5/dist-packages/websockets/server.py
+# code object from '/usr/local/lib/python3.5/dist-packages/websockets/__pycache__/server.cpython-35.pyc'
+import 'websockets.server' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fdbf98>
+import 'websockets' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94fa5e7c50>
+# trying /usr/lib/python3.5/encodings/ascii.cpython-35m-x86_64-linux-gnu.so
+# trying /usr/lib/python3.5/encodings/ascii.abi3.so
+# trying /usr/lib/python3.5/encodings/ascii.so
+# trying /usr/lib/python3.5/encodings/ascii.py
+# /usr/lib/python3.5/encodings/__pycache__/ascii.cpython-35.pyc matches /usr/lib/python3.5/encodings/ascii.py
+# code object from '/usr/lib/python3.5/encodings/__pycache__/ascii.cpython-35.pyc'
+import 'encodings.ascii' # <_frozen_importlib_external.SourceFileLoader object at 0x7f94f9fdfc88>
+anything
+Traceback (most recent call last):
+  File "websockettest.py", line 44, in <module>
+    asyncio.get_event_loop().run_forever()
+  File "/usr/lib/python3.5/asyncio/base_events.py", line 345, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.5/asyncio/base_events.py", line 1276, in _run_once
+    event_list = self._selector.select(timeout)
+  File "/usr/lib/python3.5/selectors.py", line 441, in select
+    fd_event_list = self._epoll.poll(timeout, max_ev)
+KeyboardInterrupt
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# clear sys.flags
+# clear sys.float_info
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing asyncio.protocols
+# cleanup[2] removing asyncio.constants
+# cleanup[2] removing asyncio.transports
+# cleanup[2] removing multiprocessing.reduction
+# cleanup[2] removing os.path
+# cleanup[2] removing selectors
+# cleanup[2] removing asyncio.coroutines
+# cleanup[2] removing email.parser
+# cleanup[2] removing _random
+# cleanup[2] removing heapq
+# cleanup[2] removing pickle
+# cleanup[2] removing sys
+# cleanup[2] removing _operator
+# cleanup[2] removing abc
+# cleanup[2] removing websockets.compatibility
+# cleanup[2] removing errno
+# cleanup[2] removing collections.abc
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing email._encoded_words
+# cleanup[2] removing _signal
+# cleanup[2] removing concurrent.futures
+# cleanup[2] removing urllib.parse
+# cleanup[2] removing marshal
+# cleanup[2] removing email.header
+# cleanup[2] removing copy
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing concurrent.futures.thread
+# cleanup[2] removing _string
+# cleanup[2] removing operator
+# destroy operator
+# cleanup[2] removing binascii
+# cleanup[2] removing websockets.py35
+# cleanup[2] removing quopri
+# cleanup[2] removing websockets.exceptions
+# cleanup[2] removing asyncio.compat
+# cleanup[2] removing collections
+# cleanup[2] removing select
+# cleanup[2] removing textwrap
+# cleanup[2] removing _datetime
+# cleanup[2] removing email.message
+# cleanup[2] removing queue
+# cleanup[2] removing stat
+# cleanup[2] removing sre_compile
+# cleanup[2] removing _compression
+# cleanup[2] removing itertools
+# cleanup[2] removing websockets.py35.client
+# cleanup[2] removing email.utils
+# cleanup[2] removing types
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing asyncio.queues
+# cleanup[2] removing apport_python_hook
+# cleanup[2] removing asyncio.streams
+# cleanup[2] removing websockets
+# cleanup[2] removing posix
+# cleanup[2] removing signal
+# cleanup[2] removing asyncio.base_subprocess
+# cleanup[2] removing subprocess
+# cleanup[2] removing _weakref
+# cleanup[2] removing asyncio.sslproto
+# cleanup[2] removing atexit
+# cleanup[2] removing reprlib
+# cleanup[2] removing websockets.client
+# cleanup[2] removing _stat
+# cleanup[2] removing time
+# cleanup[2] removing calendar
+# cleanup[2] removing linecache
+# cleanup[2] removing multiprocessing.util
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing asyncio.tasks
+# cleanup[2] removing asyncio.selector_events
+# cleanup[2] removing _thread
+# cleanup[2] removing _hashlib
+# cleanup[2] removing email.charset
+# cleanup[2] removing tarfile
+# cleanup[2] removing copyreg
+# cleanup[2] removing urllib
+# cleanup[2] removing _struct
+# cleanup[2] removing threading
+# cleanup[2] removing _warnings
+# cleanup[2] removing email.errors
+# cleanup[2] removing asyncio.subprocess
+# cleanup[2] removing opcode
+# cleanup[2] removing socket
+# cleanup[2] removing __mp_main__
+# cleanup[2] removing locale
+# cleanup[2] removing tempfile
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing multiprocessing
+# cleanup[2] removing _multiprocessing
+# cleanup[2] removing base64
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing concurrent.futures._base
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing importlib
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing websockets.version
+# cleanup[2] removing _heapq
+# cleanup[2] removing asyncio.base_events
+# cleanup[2] removing multiprocessing.context
+# cleanup[2] removing traceback
+# cleanup[2] removing functools
+# cleanup[2] removing uu
+# cleanup[2] removing email._parseaddr
+# cleanup[2] removing token
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _functools
+# cleanup[2] removing pwd
+# cleanup[2] removing _ssl
+# cleanup[2] removing sre_constants
+# destroy sre_constants
+# cleanup[2] removing websockets.http
+# cleanup[2] removing email.base64mime
+# cleanup[2] removing _imp
+# cleanup[2] removing multiprocessing.connection
+# cleanup[2] removing genericpath
+# cleanup[2] removing asyncio.events
+# cleanup[2] removing logging
+# cleanup[2] removing encodings.ascii
+# cleanup[2] removing email._policybase
+# cleanup[2] removing shutil
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing inspect
+# cleanup[2] removing concurrent
+# cleanup[2] removing sitecustomize
+# destroy sitecustomize
+# destroy apport_python_hook
+# cleanup[2] removing ssl
+# cleanup[2] removing email.encoders
+# cleanup[2] removing tokenize
+# cleanup[2] removing websockets.handshake
+# cleanup[2] removing sysconfig
+# destroy sysconfig
+# cleanup[2] removing lzma
+# destroy lzma
+# cleanup[2] removing asyncio.futures
+# cleanup[2] removing _posixsubprocess
+# cleanup[2] removing email.iterators
+# cleanup[2] removing asyncio.locks
+# cleanup[2] removing websockets.uri
+# cleanup[2] removing hashlib
+# cleanup[2] removing _lzma
+# cleanup[2] removing math
+# cleanup[2] removing multiprocessing.process
+# cleanup[2] removing email.quoprimime
+# cleanup[2] removing sre_parse
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing websockets.framing
+# cleanup[2] removing asyncio.log
+# cleanup[2] removing websockets.server
+# cleanup[2] removing dis
+# cleanup[2] removing _socket
+# cleanup[2] removing weakref
+# cleanup[2] removing enum
+# cleanup[2] removing _pickle
+# cleanup[2] removing ipaddress
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing bz2
+# destroy bz2
+# cleanup[2] removing _sysconfigdata_m
+# destroy _sysconfigdata_m
+# cleanup[2] removing datetime
+# cleanup[2] removing concurrent.futures.process
+# cleanup[2] removing builtins
+# cleanup[2] removing asyncio
+# cleanup[2] removing string
+# destroy string
+# cleanup[2] removing warnings
+# cleanup[2] removing random
+# cleanup[2] removing struct
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing _bz2
+# cleanup[2] removing _locale
+# cleanup[2] removing posixpath
+# cleanup[2] removing grp
+# cleanup[2] removing email.feedparser
+# cleanup[2] removing ast
+# cleanup[2] removing email
+# cleanup[2] removing io
+# cleanup[2] removing array
+# cleanup[2] removing os
+# cleanup[2] removing _ast
+# cleanup[2] removing _sre
+# cleanup[2] removing _sysconfigdata
+# destroy _sysconfigdata
+# cleanup[2] removing fnmatch
+# cleanup[2] removing _compat_pickle
+# cleanup[2] removing _codecs
+# cleanup[2] removing _opcode
+# cleanup[2] removing re
+# cleanup[2] removing websockets.protocol
+# cleanup[2] removing asyncio.unix_events
+# cleanup[2] removing _collections
+# cleanup[2] removing zipimport
+# cleanup[2] removing _io
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing encodings
+# destroy _datetime
+# destroy _ast
+# destroy _bz2
+# destroy zipimport
+Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketServerProtocol.handler() running at /usr/local/lib/python3.5/dist-packages/websockets/server.py:81> wait_for=<Future pending cb=[Task._wakeup()]>>
+Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.run() running at /usr/local/lib/python3.5/dist-packages/websockets/protocol.py:413> wait_for=<Future pending cb=[Task._wakeup()]>>
+# cleanup[3] wiping os.path
+#   clear[1] _joinrealpath
+#   clear[1] _get_sep
+#   clear[2] __package__
+#   clear[2] samefile
+#   clear[2] pathsep
+#   clear[2] __spec__
+#   clear[2] expandvars
+#   clear[2] splitext
+#   clear[2] abspath
+#   clear[2] sep
+#   clear[2] defpath
+#   clear[2] dirname
+#   clear[2] getsize
+#   clear[2] islink
+#   clear[2] expanduser
+#   clear[2] __all__
+#   clear[2] isabs
+#   clear[2] samestat
+#   clear[2] exists
+#   clear[2] commonpath
+#   clear[2] isdir
+#   clear[2] relpath
+#   clear[2] splitdrive
+#   clear[2] realpath
+#   clear[2] getmtime
+#   clear[2] lexists
+#   clear[2] normpath
+#   clear[2] commonprefix
+#   clear[2] __doc__
+#   clear[2] sameopenfile
+#   clear[2] basename
+#   clear[2] join
+#   clear[2] __cached__
+#   clear[2] normcase
+#   clear[2] os
+#   clear[2] ismount
+#   clear[2] pardir
+#   clear[2] sys
+#   clear[2] extsep
+#   clear[2] __loader__
+#   clear[2] getctime
+#   clear[2] __name__
+#   clear[2] isfile
+#   clear[2] devnull
+#   clear[2] curdir
+#   clear[2] split
+#   clear[2] supports_unicode_filenames
+#   clear[2] stat
+#   clear[2] genericpath
+# destroy genericpath
+#   clear[2] __file__
+#   clear[2] getatime
+# cleanup[3] wiping errno
+#   clear[2] EISDIR
+#   clear[2] EDEADLK
+#   clear[2] __package__
+#   clear[2] EHOSTDOWN
+#   clear[2] EMEDIUMTYPE
+#   clear[2] ENOTDIR
+#   clear[2] EXDEV
+#   clear[2] EPROTONOSUPPORT
+#   clear[2] ELIBACC
+#   clear[2] EOPNOTSUPP
+#   clear[2] ENOTBLK
+#   clear[2] ENONET
+#   clear[2] EINPROGRESS
+#   clear[2] EMULTIHOP
+#   clear[2] ENAMETOOLONG
+#   clear[2] ENOKEY
+#   clear[2] ENAVAIL
+#   clear[2] EWOULDBLOCK
+#   clear[2] ELIBEXEC
+#   clear[2] ENETUNREACH
+#   clear[2] EPFNOSUPPORT
+#   clear[2] ENOBUFS
+#   clear[2] ELOOP
+#   clear[2] __loader__
+#   clear[2] ERFKILL
+#   clear[2] ENOTSOCK
+#   clear[2] EKEYREJECTED
+#   clear[2] EFAULT
+#   clear[2] EL3HLT
+#   clear[2] EADDRNOTAVAIL
+#   clear[2] ETIMEDOUT
+#   clear[2] ELIBBAD
+#   clear[2] ENOPROTOOPT
+#   clear[2] EDEADLOCK
+#   clear[2] ENOTEMPTY
+#   clear[2] EISNAM
+#   clear[2] ESOCKTNOSUPPORT
+#   clear[2] ECONNRESET
+#   clear[2] EALREADY
+#   clear[2] EBADRQC
+#   clear[2] EOWNERDEAD
+#   clear[2] EMLINK
+#   clear[2] ENOTSUP
+#   clear[2] EIO
+#   clear[2] ESRMNT
+#   clear[2] ESPIPE
+#   clear[2] ENOPKG
+#   clear[2] EDQUOT
+#   clear[2] EMFILE
+#   clear[2] EAFNOSUPPORT
+#   clear[2] ELIBMAX
+#   clear[2] EBUSY
+#   clear[2] EBADR
+#   clear[2] ENOSYS
+#   clear[2] EADDRINUSE
+#   clear[2] ECOMM
+#   clear[2] EFBIG
+#   clear[2] EBADMSG
+#   clear[2] EREMOTEIO
+#   clear[2] ENOANO
+#   clear[2] EADV
+#   clear[2] EROFS
+#   clear[2] ENOTUNIQ
+#   clear[2] EBADF
+#   clear[2] EMSGSIZE
+#   clear[2] ENOLCK
+#   clear[2] errorcode
+#   clear[2] ENOMEDIUM
+#   clear[2] ECONNABORTED
+#   clear[2] EUCLEAN
+#   clear[2] ENOTTY
+#   clear[2] ENETDOWN
+#   clear[2] ESTALE
+#   clear[2] EPIPE
+#   clear[2] ENOENT
+#   clear[2] EDESTADDRREQ
+#   clear[2] ETIME
+#   clear[2] EISCONN
+#   clear[2] __name__
+#   clear[2] ERANGE
+#   clear[2] __spec__
+#   clear[2] EUSERS
+#   clear[2] EL2NSYNC
+#   clear[2] EILSEQ
+#   clear[2] ENOSR
+#   clear[2] ETOOMANYREFS
+#   clear[2] E2BIG
+#   clear[2] ENOSPC
+#   clear[2] ENFILE
+#   clear[2] EBADSLT
+#   clear[2] ECANCELED
+#   clear[2] ENOTNAM
+#   clear[2] ERESTART
+#   clear[2] EPERM
+#   clear[2] ENXIO
+#   clear[2] ELNRNG
+#   clear[2] ENODATA
+#   clear[2] ENOSTR
+#   clear[2] EKEYREVOKED
+#   clear[2] ECHILD
+#   clear[2] ENOLINK
+#   clear[2] ELIBSCN
+#   clear[2] __doc__
+#   clear[2] EUNATCH
+#   clear[2] EBADE
+#   clear[2] ENOMEM
+#   clear[2] ENOTCONN
+#   clear[2] EPROTO
+#   clear[2] EHOSTUNREACH
+#   clear[2] EREMCHG
+#   clear[2] ESHUTDOWN
+#   clear[2] EBADFD
+#   clear[2] ENOEXEC
+#   clear[2] ESRCH
+#   clear[2] EOVERFLOW
+#   clear[2] ECHRNG
+#   clear[2] EXFULL
+#   clear[2] EL3RST
+#   clear[2] EPROTOTYPE
+#   clear[2] ENETRESET
+#   clear[2] EINTR
+#   clear[2] EREMOTE
+#   clear[2] EDOM
+#   clear[2] EINVAL
+#   clear[2] ENOMSG
+#   clear[2] EACCES
+#   clear[2] EDOTDOT
+#   clear[2] ETXTBSY
+#   clear[2] ENOCSI
+#   clear[2] ECONNREFUSED
+#   clear[2] EBFONT
+#   clear[2] ESTRPIPE
+#   clear[2] EIDRM
+#   clear[2] ENOTRECOVERABLE
+#   clear[2] EL2HLT
+#   clear[2] ENODEV
+#   clear[2] EAGAIN
+#   clear[2] EKEYEXPIRED
+#   clear[2] EEXIST
+# cleanup[3] wiping marshal
+#   clear[2] load
+#   clear[2] dumps
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] __spec__
+#   clear[2] version
+#   clear[2] __name__
+#   clear[2] __doc__
+#   clear[2] loads
+#   clear[2] dump
+# cleanup[3] wiping importlib._bootstrap
+#   clear[1] _calc___package__
+#   clear[1] _find_and_load_unlocked
+#   clear[1] _POPULATE
+#   clear[1] _ImportLockContext
+#   clear[1] _blocking_on
+#   clear[1] _module_repr
+#   clear[1] _ModuleLockManager
+#   clear[1] _get_module_lock
+#   clear[1] _module_locks
+#   clear[1] _load
+#   clear[1] _gcd_import
+#   clear[1] _warnings
+#   clear[1] _ERR_MSG_PREFIX
+#   clear[1] _weakref
+#   clear[1] _ManageReload
+#   clear[1] _verbose_message
+#   clear[1] _requires_builtin
+#   clear[1] _lock_unlock_module
+#   clear[1] _find_spec_legacy
+#   clear[1] _installed_safely
+#   clear[1] _thread
+#   clear[1] _DummyModuleLock
+#   clear[1] _handle_fromlist
+#   clear[1] _new_module
+#   clear[1] _load_unlocked
+#   clear[1] _imp
+#   clear[1] _setup
+#   clear[1] _init_module_attrs
+#   clear[1] _sanity_check
+#   clear[1] _spec_from_module
+#   clear[1] _load_backward_compatible
+#   clear[1] _resolve_name
+#   clear[1] _ModuleLock
+#   clear[1] _DeadlockError
+#   clear[1] _wrap
+#   clear[1] _module_repr_from_spec
+#   clear[1] _load_module_shim
+#   clear[1] _exec
+#   clear[1] _bootstrap_external
+#   clear[1] _ERR_MSG
+#   clear[1] _install
+#   clear[1] _find_spec
+#   clear[1] _find_and_load
+#   clear[1] _call_with_frames_removed
+#   clear[1] _requires_frozen
+#   clear[1] _builtin_from_name
+#   clear[2] __package__
+#   clear[2] __spec__
+#   clear[2] ModuleSpec
+#   clear[2] FileFinder
+#   clear[2] SourceFileLoader
+#   clear[2] __loader__
+#   clear[2] BuiltinImporter
+#   clear[2] spec_from_loader
+#   clear[2] __doc__
+#   clear[2] FrozenImporter
+#   clear[2] module_from_spec
+#   clear[2] __name__
+#   clear[2] __import__
+#   clear[2] sys
+#   clear[2] __file__
+# cleanup[3] wiping stat
+#   clear[1] _filemode_table
+#   clear[2] ST_UID
+#   clear[2] __package__
+#   clear[2] S_ISREG
+#   clear[2] S_ISPORT
+#   clear[2] ST_MODE
+#   clear[2] ST_NLINK
+#   clear[2] ST_INO
+#   clear[2] FILE_ATTRIBUTE_DIRECTORY
+#   clear[2] S_IRWXG
+#   clear[2] S_IFLNK
+#   clear[2] S_IFDIR
+#   clear[2] UF_NOUNLINK
+#   clear[2] S_ISGID
+#   clear[2] UF_COMPRESSED
+#   clear[2] S_IEXEC
+#   clear[2] S_IREAD
+#   clear[2] ST_CTIME
+#   clear[2] __loader__
+#   clear[2] UF_HIDDEN
+#   clear[2] FILE_ATTRIBUTE_NOT_CONTENT_INDEXED
+#   clear[2] SF_IMMUTABLE
+#   clear[2] S_ISVTX
+#   clear[2] S_IFWHT
+#   clear[2] S_IRGRP
+#   clear[2] S_IXOTH
+#   clear[2] S_IFMT
+#   clear[2] FILE_ATTRIBUTE_NO_SCRUB_DATA
+#   clear[2] S_ISDIR
+#   clear[2] FILE_ATTRIBUTE_SYSTEM
+#   clear[2] FILE_ATTRIBUTE_OFFLINE
+#   clear[2] S_IFBLK
+#   clear[2] S_ISBLK
+#   clear[2] S_IFSOCK
+#   clear[2] S_IXGRP
+#   clear[2] FILE_ATTRIBUTE_ARCHIVE
+#   clear[2] FILE_ATTRIBUTE_NORMAL
+#   clear[2] ST_SIZE
+#   clear[2] __name__
+#   clear[2] FILE_ATTRIBUTE_REPARSE_POINT
+#   clear[2] SF_ARCHIVED
+#   clear[2] S_IROTH
+#   clear[2] S_IRUSR
+#   clear[2] UF_APPEND
+#   clear[2] S_ISLNK
+#   clear[2] FILE_ATTRIBUTE_SPARSE_FILE
+#   clear[2] __spec__
+#   clear[2] S_ISUID
+#   clear[2] S_IMODE
+#   clear[2] S_IFPORT
+#   clear[2] S_IXUSR
+#   clear[2] FILE_ATTRIBUTE_INTEGRITY_STREAM
+#   clear[2] FILE_ATTRIBUTE_DEVICE
+#   clear[2] S_IRWXU
+#   clear[2] ST_DEV
+#   clear[2] S_ISDOOR
+#   clear[2] S_ENFMT
+#   clear[2] ST_ATIME
+#   clear[2] SF_APPEND
+#   clear[2] S_IWRITE
+#   clear[2] FILE_ATTRIBUTE_VIRTUAL
+#   clear[2] S_ISFIFO
+#   clear[2] FILE_ATTRIBUTE_HIDDEN
+#   clear[2] S_IRWXO
+#   clear[2] __doc__
+#   clear[2] UF_NODUMP
+#   clear[2] FILE_ATTRIBUTE_COMPRESSED
+#   clear[2] filemode
+#   clear[2] FILE_ATTRIBUTE_ENCRYPTED
+#   clear[2] ST_MTIME
+#   clear[2] UF_OPAQUE
+#   clear[2] S_ISSOCK
+#   clear[2] __cached__
+#   clear[2] __file__
+#   clear[2] SF_NOUNLINK
+#   clear[2] S_IFREG
+#   clear[2] S_IFDOOR
+#   clear[2] S_ISWHT
+#   clear[2] S_IWGRP
+#   clear[2] S_ISCHR
+#   clear[2] S_IFIFO
+#   clear[2] FILE_ATTRIBUTE_READONLY
+#   clear[2] ST_GID
+#   clear[2] S_IFCHR
+#   clear[2] UF_IMMUTABLE
+#   clear[2] SF_SNAPSHOT
+#   clear[2] S_IWUSR
+#   clear[2] S_IWOTH
+#   clear[2] FILE_ATTRIBUTE_TEMPORARY
+# cleanup[3] wiping codecs
+#   clear[1] _false
+#   clear[2] BOM64_LE
+#   clear[2] ignore_errors
+#   clear[2] __package__
+#   clear[2] utf_16_decode
+#   clear[2] unicode_internal_encode
+#   clear[2] iterencode
+#   clear[2] charmap_encode
+#   clear[2] utf_16_be_encode
+#   clear[2] BOM_UTF32
+#   clear[2] lookup_error
+#   clear[2] ascii_encode
+#   clear[2] iterdecode
+#   clear[2] __loader__
+#   clear[2] getreader
+#   clear[2] utf_7_decode
+#   clear[2] BufferedIncrementalEncoder
+#   clear[2] BOM32_BE
+#   clear[2] utf_32_be_encode
+#   clear[2] decode
+#   clear[2] BOM32_LE
+#   clear[2] BOM_UTF8
+#   clear[2] BOM_LE
+#   clear[2] utf_7_encode
+#   clear[2] EncodedFile
+#   clear[2] latin_1_encode
+#   clear[2] xmlcharrefreplace_errors
+#   clear[2] CodecInfo
+#   clear[2] register_error
+#   clear[2] BufferedIncrementalDecoder
+#   clear[2] utf_32_be_decode
+#   clear[2] BOM_UTF16_BE
+#   clear[2] IncrementalDecoder
+#   clear[2] utf_32_ex_decode
+#   clear[2] unicode_escape_encode
+#   clear[2] __name__
+#   clear[2] getwriter
+#   clear[2] IncrementalEncoder
+#   clear[2] ascii_decode
+#   clear[2] BOM_BE
+#   clear[2] utf_8_decode
+#   clear[2] raw_unicode_escape_encode
+#   clear[2] utf_8_encode
+#   clear[2] __file__
+#   clear[2] utf_32_decode
+#   clear[2] StreamRecoder
+#   clear[2] readbuffer_encode
+#   clear[2] lookup
+#   clear[2] utf_32_encode
+#   clear[2] __spec__
+#   clear[2] BOM
+#   clear[2] StreamReader
+#   clear[2] BOM_UTF16_LE
+#   clear[2] escape_decode
+#   clear[2] BOM_UTF32_LE
+#   clear[2] latin_1_decode
+#   clear[2] utf_16_le_decode
+#   clear[2] strict_errors
+#   clear[2] utf_16_be_decode
+#   clear[2] builtins
+#   clear[2] getincrementaldecoder
+#   clear[2] make_encoding_map
+#   clear[2] register
+#   clear[2] BOM_UTF16
+#   clear[2] getincrementalencoder
+#   clear[2] raw_unicode_escape_decode
+#   clear[2] BOM64_BE
+#   clear[2] __doc__
+#   clear[2] getdecoder
+#   clear[2] replace_errors
+#   clear[2] __all__
+#   clear[2] __cached__
+#   clear[2] utf_32_le_decode
+#   clear[2] sys
+#   clear[2] StreamReaderWriter
+#   clear[2] utf_16_ex_decode
+#   clear[2] getencoder
+#   clear[2] make_identity_dict
+#   clear[2] unicode_escape_decode
+#   clear[2] charmap_build
+#   clear[2] BOM_UTF32_BE
+#   clear[2] encode
+#   clear[2] Codec
+#   clear[2] escape_encode
+#   clear[2] namereplace_errors
+#   clear[2] utf_16_le_encode
+#   clear[2] utf_16_encode
+#   clear[2] unicode_internal_decode
+#   clear[2] open
+#   clear[2] charmap_decode
+#   clear[2] StreamWriter
+#   clear[2] backslashreplace_errors
+#   clear[2] utf_32_le_encode
+# cleanup[3] wiping encodings.latin_1
+#   clear[2] __doc__
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] StreamConverter
+#   clear[2] __spec__
+#   clear[2] codecs
+#   clear[2] __name__
+#   clear[2] __cached__
+#   clear[2] Codec
+#   clear[2] getregentry
+#   clear[2] StreamReader
+#   clear[2] StreamWriter
+#   clear[2] __file__
+#   clear[2] IncrementalEncoder
+#   clear[2] IncrementalDecoder
+# cleanup[3] wiping posix
+#   clear[1] _have_functions
+#   clear[1] _exit
+#   clear[2] mkfifo
+#   clear[2] __package__
+#   clear[2] O_TRUNC
+#   clear[2] setresuid
+#   clear[2] pwrite
+#   clear[2] unsetenv
+#   clear[2] getresgid
+#   clear[2] minor
+#   clear[2] setpgrp
+#   clear[2] WSTOPPED
+#   clear[2] link
+#   clear[2] writev
+#   clear[2] CLD_TRAPPED
+#   clear[2] WNOWAIT
+#   clear[2] XATTR_SIZE_MAX
+#   clear[2] O_APPEND
+#   clear[2] SEEK_DATA
+#   clear[2] EX_OSFILE
+#   clear[2] getgid
+#   clear[2] ST_NODEV
+#   clear[2] pipe
+#   clear[2] ttyname
+#   clear[2] getcwdb
+#   clear[2] seteuid
+#   clear[2] setreuid
+#   clear[2] EX_NOUSER
+#   clear[2] CLD_CONTINUED
+#   clear[2] readv
+#   clear[2] XATTR_REPLACE
+#   clear[2] ST_NOATIME
+#   clear[2] EX_SOFTWARE
+#   clear[2] EX_OSERR
+#   clear[2] ftruncate
+#   clear[2] PRIO_PROCESS
+#   clear[2] sched_yield
+#   clear[2] EX_TEMPFAIL
+#   clear[2] fchdir
+#   clear[2] POSIX_FADV_RANDOM
+#   clear[2] ST_RELATIME
+#   clear[2] O_NONBLOCK
+#   clear[2] symlink
+#   clear[2] remove
+#   clear[2] kill
+#   clear[2] posix_fallocate
+#   clear[2] sched_rr_get_interval
+#   clear[2] O_NOFOLLOW
+#   clear[2] terminal_size
+#   clear[2] sysconf_names
+#   clear[2] getuid
+#   clear[2] ctermid
+#   clear[2] execve
+#   clear[2] ST_NOSUID
+#   clear[2] stat
+#   clear[2] O_CLOEXEC
+#   clear[2] P_ALL
+#   clear[2] pathconf_names
+#   clear[2] O_NDELAY
+#   clear[2] scandir
+#   clear[2] setxattr
+#   clear[2] __spec__
+#   clear[2] read
+#   clear[2] closerange
+#   clear[2] POSIX_FADV_SEQUENTIAL
+#   clear[2] TMP_MAX
+#   clear[2] mkdir
+#   clear[2] O_RDONLY
+#   clear[2] get_inheritable
+#   clear[2] times_result
+#   clear[2] sched_getparam
+#   clear[2] P_PGID
+#   clear[2] ST_SYNCHRONOUS
+#   clear[2] fstat
+#   clear[2] pathconf
+#   clear[2] O_CREAT
+#   clear[2] listdir
+#   clear[2] O_DSYNC
+#   clear[2] sched_getscheduler
+#   clear[2] PRIO_PGRP
+#   clear[2] dup
+#   clear[2] uname_result
+#   clear[2] abort
+#   clear[2] NGROUPS_MAX
+#   clear[2] RTLD_NOW
+#   clear[2] O_ASYNC
+#   clear[2] setresgid
+#   clear[2] RTLD_GLOBAL
+#   clear[2] readlink
+#   clear[2] fchmod
+#   clear[2] mknod
+#   clear[2] confstr_names
+#   clear[2] geteuid
+#   clear[2] EX_CONFIG
+#   clear[2] __doc__
+#   clear[2] tcgetpgrp
+#   clear[2] getegid
+#   clear[2] X_OK
+#   clear[2] waitid
+#   clear[2] EX_NOHOST
+#   clear[2] setegid
+#   clear[2] cpu_count
+#   clear[2] set_blocking
+#   clear[2] O_NOCTTY
+#   clear[2] lockf
+#   clear[2] W_OK
+#   clear[2] rename
+#   clear[2] chdir
+#   clear[2] access
+#   clear[2] WEXITSTATUS
+#   clear[2] F_OK
+#   clear[2] wait4
+#   clear[2] getpgid
+#   clear[2] WIFCONTINUED
+#   clear[2] getsid
+#   clear[2] device_encoding
+#   clear[2] get_blocking
+#   clear[2] ST_RDONLY
+#   clear[2] error
+#   clear[2] fpathconf
+#   clear[2] WIFSIGNALED
+#   clear[2] putenv
+#   clear[2] isatty
+#   clear[2] WUNTRACED
+#   clear[2] pread
+#   clear[2] getresuid
+#   clear[2] open
+#   clear[2] EX_NOPERM
+#   clear[2] fork
+#   clear[2] ST_APPEND
+#   clear[2] sched_get_priority_min
+#   clear[2] WIFEXITED
+#   clear[2] sched_setparam
+#   clear[2] chroot
+#   clear[2] sched_param
+#   clear[2] SCHED_IDLE
+#   clear[2] openpty
+#   clear[2] urandom
+#   clear[2] CLD_DUMPED
+#   clear[2] setregid
+#   clear[2] getpriority
+#   clear[2] killpg
+#   clear[2] forkpty
+#   clear[2] RTLD_DEEPBIND
+#   clear[2] utime
+#   clear[2] truncate
+#   clear[2] stat_float_times
+#   clear[2] waitid_result
+#   clear[2] POSIX_FADV_NORMAL
+#   clear[2] EX_CANTCREAT
+#   clear[2] O_LARGEFILE
+#   clear[2] __loader__
+#   clear[2] sched_get_priority_max
+#   clear[2] ST_NOEXEC
+#   clear[2] times
+#   clear[2] rmdir
+#   clear[2] O_RSYNC
+#   clear[2] PRIO_USER
+#   clear[2] O_EXCL
+#   clear[2] getloadavg
+#   clear[2] RTLD_NOLOAD
+#   clear[2] pipe2
+#   clear[2] O_WRONLY
+#   clear[2] WSTOPSIG
+#   clear[2] F_LOCK
+#   clear[2] replace
+#   clear[2] wait
+#   clear[2] statvfs_result
+#   clear[2] umask
+#   clear[2] removexattr
+#   clear[2] get_terminal_size
+#   clear[2] uname
+#   clear[2] RTLD_NODELETE
+#   clear[2] initgroups
+#   clear[2] close
+#   clear[2] environ
+#   clear[2] ST_NODIRATIME
+#   clear[2] P_PID
+#   clear[2] WIFSTOPPED
+#   clear[2] SEEK_HOLE
+#   clear[2] ST_WRITE
+#   clear[2] setpgid
+#   clear[2] getgrouplist
+#   clear[2] strerror
+#   clear[2] O_DIRECT
+#   clear[2] SCHED_RR
+#   clear[2] __name__
+#   clear[2] POSIX_FADV_NOREUSE
+#   clear[2] O_DIRECTORY
+#   clear[2] CLD_EXITED
+#   clear[2] WTERMSIG
+#   clear[2] lstat
+#   clear[2] WNOHANG
+#   clear[2] SCHED_RESET_ON_FORK
+#   clear[2] EX_NOINPUT
+#   clear[2] WEXITED
+#   clear[2] setuid
+#   clear[2] waitpid
+#   clear[2] setpriority
+#   clear[2] sched_setscheduler
+#   clear[2] sched_setaffinity
+#   clear[2] O_RDWR
+#   clear[2] EX_UNAVAILABLE
+#   clear[2] O_ACCMODE
+#   clear[2] SCHED_BATCH
+#   clear[2] confstr
+#   clear[2] sysconf
+#   clear[2] setsid
+#   clear[2] F_TLOCK
+#   clear[2] setgid
+#   clear[2] system
+#   clear[2] tcsetpgrp
+#   clear[2] fdatasync
+#   clear[2] RTLD_LOCAL
+#   clear[2] O_PATH
+#   clear[2] sync
+#   clear[2] getcwd
+#   clear[2] write
+#   clear[2] O_NOATIME
+#   clear[2] getpgrp
+#   clear[2] execv
+#   clear[2] getgroups
+#   clear[2] getpid
+#   clear[2] getxattr
+#   clear[2] SCHED_FIFO
+#   clear[2] POSIX_FADV_WILLNEED
+#   clear[2] chown
+#   clear[2] set_inheritable
+#   clear[2] major
+#   clear[2] fchown
+#   clear[2] fstatvfs
+#   clear[2] makedev
+#   clear[2] XATTR_CREATE
+#   clear[2] SCHED_OTHER
+#   clear[2] setgroups
+#   clear[2] unlink
+#   clear[2] RTLD_LAZY
+#   clear[2] EX_USAGE
+#   clear[2] posix_fadvise
+#   clear[2] lchown
+#   clear[2] wait3
+#   clear[2] EX_OK
+#   clear[2] EX_DATAERR
+#   clear[2] WCONTINUED
+#   clear[2] O_TMPFILE
+#   clear[2] O_SYNC
+#   clear[2] F_TEST
+#   clear[2] sendfile
+#   clear[2] EX_PROTOCOL
+#   clear[2] listxattr
+#   clear[2] dup2
+#   clear[2] ST_MANDLOCK
+#   clear[2] getppid
+#   clear[2] WCOREDUMP
+#   clear[2] F_ULOCK
+#   clear[2] EX_IOERR
+#   clear[2] stat_result
+#   clear[2] chmod
+#   clear[2] fsync
+#   clear[2] lseek
+#   clear[2] nice
+#   clear[2] getlogin
+#   clear[2] R_OK
+#   clear[2] sched_getaffinity
+#   clear[2] statvfs
+#   clear[2] POSIX_FADV_DONTNEED
+# cleanup[3] wiping _weakref
+#   clear[2] proxy
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] __spec__
+#   clear[2] __name__
+#   clear[2] CallableProxyType
+#   clear[2] ref
+#   clear[2] getweakrefs
+#   clear[2] ProxyType
+#   clear[2] __doc__
+#   clear[2] getweakrefcount
+#   clear[2] ReferenceType
+# cleanup[3] wiping _stat
+#   clear[2] UF_APPEND
+#   clear[2] S_ISLNK
+#   clear[2] __package__
+#   clear[2] S_ISREG
+#   clear[2] __spec__
+#   clear[2] S_ISUID
+#   clear[2] S_ISPORT
+#   clear[2] ST_SIZE
+#   clear[2] ST_MODE
+#   clear[2] S_IRGRP
+#   clear[2] ST_INO
+#   clear[2] S_IMODE
+#   clear[2] S_IFPORT
+#   clear[2] S_IFDIR
+#   clear[2] S_IXUSR
+#   clear[2] SF_IMMUTABLE
+#   clear[2] S_ISGID
+#   clear[2] UF_COMPRESSED
+#   clear[2] S_IFLNK
+#   clear[2] S_IEXEC
+#   clear[2] filemode
+#   clear[2] S_IRWXU
+#   clear[2] __loader__
+#   clear[2] ST_DEV
+#   clear[2] S_ISDOOR
+#   clear[2] S_ENFMT
+#   clear[2] ST_ATIME
+#   clear[2] UF_HIDDEN
+#   clear[2] UF_NOUNLINK
+#   clear[2] S_IREAD
+#   clear[2] S_ISVTX
+#   clear[2] S_IFWHT
+#   clear[2] SF_NOUNLINK
+#   clear[2] ST_CTIME
+#   clear[2] S_ISFIFO
+#   clear[2] S_IXOTH
+#   clear[2] S_IFMT
+#   clear[2] S_IRWXO
+#   clear[2] __doc__
+#   clear[2] UF_NODUMP
+#   clear[2] S_ISDIR
+#   clear[2] ST_MTIME
+#   clear[2] SF_ARCHIVED
+#   clear[2] UF_OPAQUE
+#   clear[2] S_ISSOCK
+#   clear[2] ST_NLINK
+#   clear[2] S_IFBLK
+#   clear[2] S_IFCHR
+#   clear[2] S_ISBLK
+#   clear[2] S_IFREG
+#   clear[2] S_IFDOOR
+#   clear[2] S_IFSOCK
+#   clear[2] S_IXGRP
+#   clear[2] S_ISWHT
+#   clear[2] S_IWGRP
+#   clear[2] SF_APPEND
+#   clear[2] S_ISCHR
+#   clear[2] S_IFIFO
+#   clear[2] ST_UID
+#   clear[2] __name__
+#   clear[2] ST_GID
+#   clear[2] S_IWRITE
+#   clear[2] UF_IMMUTABLE
+#   clear[2] SF_SNAPSHOT
+#   clear[2] S_IRUSR
+#   clear[2] S_IWUSR
+#   clear[2] S_IWOTH
+#   clear[2] S_IROTH
+#   clear[2] S_IRWXG
+# destroy _stat
+# cleanup[3] wiping _thread
+#   clear[1] _set_sentinel
+#   clear[1] _local
+#   clear[1] _count
+#   clear[2] exit_thread
+#   clear[2] stack_size
+#   clear[2] __package__
+#   clear[2] __spec__
+#   clear[2] interrupt_main
+#   clear[2] start_new_thread
+#   clear[2] __loader__
+#   clear[2] start_new
+#   clear[2] allocate_lock
+#   clear[2] TIMEOUT_MAX
+#   clear[2] __doc__
+#   clear[2] exit
+#   clear[2] RLock
+#   clear[2] allocate
+#   clear[2] get_ident
+#   clear[2] LockType
+#   clear[2] __name__
+#   clear[2] error
+# cleanup[3] wiping _warnings
+#   clear[1] _filters_mutated
+#   clear[1] _onceregistry
+#   clear[1] _defaultaction
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] __spec__
+#   clear[2] filters
+#   clear[2] __name__
+#   clear[2] __doc__
+#   clear[2] warn
+#   clear[2] warn_explicit
+# cleanup[3] wiping importlib._bootstrap_external
+#   clear[1] _warnings
+#   clear[1] _NamespacePath
+#   clear[1] _path_is_mode_type
+#   clear[1] _install
+#   clear[1] _POPULATE
+#   clear[1] _bootstrap
+#   clear[1] _find_module_shim
+#   clear[1] _path_join
+#   clear[1] _path_isdir
+#   clear[1] _get_cached
+#   clear[1] _write_atomic
+#   clear[1] _relax_case
+#   clear[1] _code_to_bytecode
+#   clear[1] _check_name
+#   clear[1] _r_long
+#   clear[1] _calc_mode
+#   clear[1] _verbose_message
+#   clear[1] _OPT
+#   clear[1] _get_sourcefile
+#   clear[1] _imp
+#   clear[1] _make_relax_case
+#   clear[1] _RAW_MAGIC_NUMBER
+#   clear[1] _thread
+#   clear[1] _w_long
+#   clear[1] _path_split
+#   clear[1] _path_stat
+#   clear[1] _validate_bytecode_header
+#   clear[1] _NamespaceLoader
+#   clear[1] _weakref
+#   clear[1] _PYCACHE
+#   clear[1] _CASE_INSENSITIVE_PLATFORMS
+#   clear[1] _compile_bytecode
+#   clear[1] _os
+#   clear[1] _LoaderBasics
+#   clear[1] _path_isfile
+#   clear[1] _fix_up_module
+#   clear[1] _io
+#   clear[1] _code_type
+#   clear[1] _get_supported_file_loaders
+#   clear[1] _setup
+#   clear[2] __package__
+#   clear[2] __spec__
+#   clear[2] OPTIMIZED_BYTECODE_SUFFIXES
+#   clear[2] FileFinder
+#   clear[2] __file__
+#   clear[2] cache_from_source
+#   clear[2] path_sep
+#   clear[2] builtins
+#   clear[2] path_separators
+#   clear[2] SourceFileLoader
+#   clear[2] __loader__
+#   clear[2] sys
+#   clear[2] WindowsRegistryFinder
+#   clear[2] ExtensionFileLoader
+#   clear[2] __doc__
+#   clear[2] SourceLoader
+#   clear[2] PathFinder
+#   clear[2] source_from_cache
+#   clear[2] marshal
+# destroy marshal
+#   clear[2] decode_source
+#   clear[2] EXTENSION_SUFFIXES
+#   clear[2] FileLoader
+#   clear[2] DEBUG_BYTECODE_SUFFIXES
+#   clear[2] spec_from_file_location
+#   clear[2] SourcelessFileLoader
+#   clear[2] __name__
+#   clear[2] SOURCE_SUFFIXES
+#   clear[2] BYTECODE_SUFFIXES
+#   clear[2] MAGIC_NUMBER
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping _imp
+#   clear[1] _fix_co_filename
+#   clear[2] acquire_lock
+#   clear[2] extension_suffixes
+#   clear[2] __name__
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] __spec__
+#   clear[2] release_lock
+#   clear[2] is_frozen_package
+#   clear[2] exec_dynamic
+#   clear[2] exec_builtin
+#   clear[2] create_builtin
+#   clear[2] create_dynamic
+#   clear[2] is_builtin
+#   clear[2] is_frozen
+#   clear[2] lock_held
+#   clear[2] __doc__
+#   clear[2] get_frozen_object
+#   clear[2] init_frozen
+# cleanup[3] wiping encodings.ascii
+#   clear[2] __doc__
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] StreamConverter
+#   clear[2] __spec__
+#   clear[2] codecs
+#   clear[2] __name__
+#   clear[2] __cached__
+#   clear[2] Codec
+#   clear[2] getregentry
+#   clear[2] StreamReader
+#   clear[2] StreamWriter
+#   clear[2] __file__
+#   clear[2] IncrementalEncoder
+#   clear[2] IncrementalDecoder
+# cleanup[3] wiping encodings.aliases
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] __spec__
+#   clear[2] __file__
+#   clear[2] aliases
+#   clear[2] __name__
+#   clear[2] __doc__
+#   clear[2] __cached__
+# cleanup[3] wiping encodings.utf_8
+#   clear[2] __doc__
+#   clear[2] __package__
+#   clear[2] __loader__
+#   clear[2] __spec__
+#   clear[2] codecs
+#   clear[2] __name__
+#   clear[2] encode
+#   clear[2] IncrementalEncoder
+#   clear[2] __cached__
+#   clear[2] getregentry
+#   clear[2] StreamReader
+#   clear[2] StreamWriter
+#   clear[2] __file__
+#   clear[2] decode
+#   clear[2] IncrementalDecoder
+# cleanup[3] wiping posixpath
+# cleanup[3] wiping os
+#   clear[1] _spawnvef
+#   clear[1] _DummyDirEntry
+#   clear[1] _Environ
+#   clear[1] _exists
+#   clear[1] _dummy_scandir
+#   clear[1] _exit
+#   clear[1] _putenv
+#   clear[1] _unsetenv
+#   clear[1] _wrap_close
+#   clear[1] _execvpe
+#   clear[1] _get_exports_list
+#   clear[1] _fwalk
+#   clear[2] environb
+#   clear[2] mkfifo
+#   clear[2] spawnlpe
+#   clear[2] __package__
+#   clear[2] O_TRUNC
+#   clear[2] setresuid
+#   clear[2] pwrite
+#   clear[2] spawnle
+#   clear[2] unsetenv
+#   clear[2] getresgid
+#   clear[2] minor
+#   clear[2] setpgrp
+#   clear[2] WSTOPPED
+#   clear[2] link
+#   clear[2] removedirs
+#   clear[2] sep
+#   clear[2] writev
+#   clear[2] CLD_TRAPPED
+#   clear[2] SEEK_SET
+#   clear[2] WNOWAIT
+#   clear[2] XATTR_SIZE_MAX
+#   clear[2] O_APPEND
+#   clear[2] remove
+#   clear[2] EX_CONFIG
+#   clear[2] getgid
+#   clear[2] ST_NODEV
+#   clear[2] pipe
+#   clear[2] ttyname
+#   clear[2] getcwdb
+#   clear[2] seteuid
+#   clear[2] setreuid
+#   clear[2] EX_NOUSER
+#   clear[2] CLD_CONTINUED
+#   clear[2] major
+#   clear[2] errno
+#   clear[2] CLD_EXITED
+#   clear[2] EX_SOFTWARE
+#   clear[2] EX_OSERR
+#   clear[2] ftruncate
+#   clear[2] PRIO_PROCESS
+#   clear[2] ST_NOATIME
+#   clear[2] EX_TEMPFAIL
+#   clear[2] O_RDWR
+#   clear[2] fchdir
+#   clear[2] POSIX_FADV_RANDOM
+#   clear[2] execvp
+#   clear[2] ST_RELATIME
+#   clear[2] P_WAIT
+#   clear[2] O_NONBLOCK
+#   clear[2] fdatasync
+#   clear[2] setgroups
+#   clear[2] SEEK_DATA
+#   clear[2] extsep
+#   clear[2] P_NOWAIT
+#   clear[2] posix_fallocate
+#   clear[2] RTLD_GLOBAL
+#   clear[2] O_NOFOLLOW
+#   clear[2] defpath
+#   clear[2] sysconf_names
+#   clear[2] getuid
+#   clear[2] devnull
+#   clear[2] ctermid
+#   clear[2] execve
+#   clear[2] ST_NOSUID
+#   clear[2] stat
+#   clear[2] getenvb
+#   clear[2] __file__
+#   clear[2] st
+#   clear[2] P_ALL
+#   clear[2] pathconf_names
+#   clear[2] scandir
+#   clear[2] setregid
+#   clear[2] __spec__
+#   clear[2] read
+#   clear[2] closerange
+#   clear[2] nice
+#   clear[2] POSIX_FADV_SEQUENTIAL
+#   clear[2] TMP_MAX
+#   clear[2] mkdir
+#   clear[2] execvpe
+#   clear[2] O_RDONLY
+#   clear[2] get_inheritable
+#   clear[2] O_DIRECTORY
+#   clear[2] sched_getparam
+#   clear[2] F_TLOCK
+#   clear[2] ST_SYNCHRONOUS
+#   clear[2] fstat
+#   clear[2] pathconf
+#   clear[2] O_CREAT
+#   clear[2] listdir
+#   clear[2] O_DSYNC
+#   clear[2] sched_getscheduler
+#   clear[2] dup
+#   clear[2] abort
+#   clear[2] NGROUPS_MAX
+#   clear[2] waitid_result
+#   clear[2] kill
+#   clear[2] setresgid
+#   clear[2] readlink
+#   clear[2] fchmod
+#   clear[2] mknod
+#   clear[2] supports_fd
+#   clear[2] fdopen
+#   clear[2] confstr_names
+#   clear[2] geteuid
+#   clear[2] __doc__
+#   clear[2] tcgetpgrp
+#   clear[2] getegid
+#   clear[2] X_OK
+#   clear[2] waitid
+#   clear[2] EX_NOHOST
+#   clear[2] setegid
+#   clear[2] cpu_count
+#   clear[2] set_blocking
+#   clear[2] O_NOCTTY
+#   clear[2] lockf
+#   clear[2] execv
+#   clear[2] W_OK
+#   clear[2] linesep
+#   clear[2] pardir
+#   clear[2] sys
+#   clear[2] chdir
+#   clear[2] O_TMPFILE
+#   clear[2] spawnve
+#   clear[2] access
+#   clear[2] WEXITSTATUS
+#   clear[2] F_OK
+#   clear[2] execl
+#   clear[2] SEEK_CUR
+#   clear[2] wait4
+#   clear[2] getpgid
+#   clear[2] WIFCONTINUED
+#   clear[2] getsid
+#   clear[2] device_encoding
+#   clear[2] get_blocking
+#   clear[2] lstat
+#   clear[2] ST_RDONLY
+#   clear[2] error
+#   clear[2] spawnlp
+#   clear[2] fpathconf
+#   clear[2] WIFSIGNALED
+#   clear[2] putenv
+#   clear[2] terminal_size
+#   clear[2] rename
+#   clear[2] WUNTRACED
+#   clear[2] pread
+#   clear[2] getresuid
+#   clear[2] open
+#   clear[2] execlp
+#   clear[2] EX_NOPERM
+#   clear[2] sched_setscheduler
+#   clear[2] supports_dir_fd
+#   clear[2] ST_APPEND
+#   clear[2] sched_get_priority_min
+#   clear[2] sendfile
+#   clear[2] sched_setaffinity
+#   clear[2] O_NDELAY
+#   clear[2] chroot
+#   clear[2] spawnvpe
+#   clear[2] SCHED_IDLE
+#   clear[2] openpty
+#   clear[2] urandom
+#   clear[2] CLD_DUMPED
+#   clear[2] O_CLOEXEC
+#   clear[2] killpg
+#   clear[2] forkpty
+#   clear[2] RTLD_DEEPBIND
+#   clear[2] utime
+#   clear[2] walk
+#   clear[2] truncate
+#   clear[2] O_RSYNC
+#   clear[2] write
+#   clear[2] EX_CANTCREAT
+#   clear[2] fsdecode
+#   clear[2] supports_effective_ids
+#   clear[2] __loader__
+#   clear[2] sched_get_priority_max
+#   clear[2] makedirs
+#   clear[2] ST_NOEXEC
+#   clear[2] times
+#   clear[2] EX_OK
+#   clear[2] name
+#   clear[2] stat_float_times
+#   clear[2] PRIO_USER
+#   clear[2] O_EXCL
+#   clear[2] getloadavg
+#   clear[2] popen
+#   clear[2] pipe2
+#   clear[2] MutableMapping
+#   clear[2] O_WRONLY
+#   clear[2] renames
+#   clear[2] WSTOPSIG
+#   clear[2] F_LOCK
+#   clear[2] replace
+#   clear[2] wait
+#   clear[2] statvfs_result
+#   clear[2] umask
+#   clear[2] removexattr
+#   clear[2] readv
+#   clear[2] SEEK_HOLE
+#   clear[2] O_LARGEFILE
+#   clear[2] RTLD_NODELETE
+#   clear[2] path
+#   clear[2] initgroups
+#   clear[2] supports_bytes_environ
+#   clear[2] execle
+#   clear[2] close
+#   clear[2] environ
+#   clear[2] ST_NODIRATIME
+#   clear[2] P_PID
+#   clear[2] P_NOWAITO
+#   clear[2] WIFSTOPPED
+#   clear[2] XATTR_REPLACE
+#   clear[2] ST_WRITE
+#   clear[2] setpgid
+#   clear[2] getgrouplist
+#   clear[2] strerror
+#   clear[2] O_DIRECT
+#   clear[2] SCHED_RR
+#   clear[2] __name__
+#   clear[2] POSIX_FADV_NOREUSE
+#   clear[2] times_result
+#   clear[2] WTERMSIG
+#   clear[2] PRIO_PGRP
+#   clear[2] WNOHANG
+#   clear[2] SCHED_RESET_ON_FORK
+#   clear[2] P_PGID
+#   clear[2] WEXITED
+#   clear[2] setuid
+#   clear[2] waitpid
+#   clear[2] setpriority
+#   clear[2] spawnvp
+#   clear[2] WCONTINUED
+#   clear[2] fork
+#   clear[2] sched_setparam
+#   clear[2] sched_param
+#   clear[2] EX_UNAVAILABLE
+#   clear[2] fwalk
+#   clear[2] EX_DATAERR
+#   clear[2] SCHED_BATCH
+#   clear[2] confstr
+#   clear[2] setsid
+#   clear[2] setgid
+#   clear[2] curdir
+#   clear[2] wait3
+#   clear[2] system
+#   clear[2] tcsetpgrp
+#   clear[2] sched_rr_get_interval
+#   clear[2] RTLD_LOCAL
+#   clear[2] EX_NOINPUT
+#   clear[2] O_PATH
+#   clear[2] sync
+#   clear[2] spawnv
+#   clear[2] getcwd
+#   clear[2] getpriority
+#   clear[2] __all__
+#   clear[2] O_NOATIME
+#   clear[2] getpgrp
+#   clear[2] O_ACCMODE
+#   clear[2] pathsep
+#   clear[2] getgroups
+#   clear[2] getpid
+#   clear[2] getxattr
+#   clear[2] SCHED_FIFO
+#   clear[2] POSIX_FADV_WILLNEED
+#   clear[2] supports_follow_symlinks
+#   clear[2] chown
+#   clear[2] set_inheritable
+#   clear[2] EX_OSFILE
+#   clear[2] fchown
+#   clear[2] uname_result
+#   clear[2] sched_yield
+#   clear[2] XATTR_CREATE
+#   clear[2] SCHED_OTHER
+#   clear[2] symlink
+#   clear[2] posix_fadvise
+#   clear[2] unlink
+#   clear[2] RTLD_LAZY
+#   clear[2] dup2
+#   clear[2] setxattr
+#   clear[2] get_terminal_size
+#   clear[2] uname
+#   clear[2] EX_USAGE
+#   clear[2] spawnl
+#   clear[2] rmdir
+#   clear[2] lchown
+#   clear[2] fstatvfs
+#   clear[2] SEEK_END
+#   clear[2] sysconf
+#   clear[2] __cached__
+#   clear[2] O_SYNC
+#   clear[2] F_TEST
+#   clear[2] fsencode
+#   clear[2] WIFEXITED
+#   clear[2] EX_PROTOCOL
+#   clear[2] R_OK
+#   clear[2] POSIX_FADV_NORMAL
+#   clear[2] ST_MANDLOCK
+#   clear[2] getppid
+#   clear[2] get_exec_path
+#   clear[2] fsync
+#   clear[2] WCOREDUMP
+#   clear[2] F_ULOCK
+#   clear[2] O_ASYNC
+#   clear[2] EX_IOERR
+#   clear[2] statvfs
+#   clear[2] stat_result
+#   clear[2] chmod
+#   clear[2] RTLD_NOW
+#   clear[2] lseek
+#   clear[2] RTLD_NOLOAD
+#   clear[2] makedev
+#   clear[2] getlogin
+#   clear[2] listxattr
+#   clear[2] getenv
+#   clear[2] execlpe
+#   clear[2] sched_getaffinity
+#   clear[2] isatty
+#   clear[2] POSIX_FADV_DONTNEED
+# cleanup[3] wiping _codecs
+#   clear[1] _forget_codec
+#   clear[2] readbuffer_encode
+#   clear[2] __package__
+#   clear[2] utf_16_decode
+#   clear[2] utf_32_encode
+#   clear[2] __spec__
+#   clear[2] unicode_internal_encode
+#   clear[2] charmap_encode
+#   clear[2] utf_16_be_encode
+#   clear[2] utf_32_be_decode
+#   clear[2] lookup_error
+#   clear[2] ascii_encode
+#   clear[2] utf_16_le_decode
+#   clear[2] utf_16_be_decode
+#   clear[2] __loader__
+#   clear[2] utf_7_decode
+#   clear[2] register
+#   clear[2] raw_unicode_escape_decode
+#   clear[2] decode
+#   clear[2] charmap_decode
+#   clear[2] latin_1_decode
+#   clear[2] lookup
+#   clear[2] utf_32_le_decode
+#   clear[2] latin_1_encode
+#   clear[2] register_error
+#   clear[2] utf_32_le_encode
+#   clear[2] utf_16_ex_decode
+#   clear[2] unicode_escape_decode
+#   clear[2] utf_32_be_encode
+#   clear[2] charmap_build
+#   clear[2] utf_32_ex_decode
+#   clear[2] unicode_escape_encode
+#   clear[2] __name__
+#   clear[2] encode
+#   clear[2] escape_decode
+#   clear[2] escape_encode
+#   clear[2] ascii_decode
+#   clear[2] utf_16_le_encode
+#   clear[2] utf_16_encode
+#   clear[2] unicode_internal_decode
+#   clear[2] utf_8_decode
+#   clear[2] raw_unicode_escape_encode
+#   clear[2] utf_8_encode
+#   clear[2] utf_7_encode
+#   clear[2] utf_32_decode
+# cleanup[3] wiping _io
+#   clear[1] _TextIOBase
+#   clear[1] _RawIOBase
+#   clear[1] _BufferedIOBase
+#   clear[1] _IOBase
+#   clear[2] StringIO
+#   clear[2] IncrementalNewlineDecoder
+#   clear[2] BufferedRandom
+#   clear[2] __package__
+#   clear[2] __spec__
+#   clear[2] BlockingIOError
+#   clear[2] BufferedWriter
+#   clear[2] FileIO
+#   clear[2] UnsupportedOperation
+#   clear[2] BufferedRWPair
+#   clear[2] BufferedReader
+#   clear[2] getfilesystemencoding
+#   clear[2] callstats
+#   clear[2] warnoptions
+#   clear[2] byteorder
+#   clear[2] api_version
+#   clear[2] call_tracing
+#   clear[2] int_info
+#   clear[2] getdlopenflags
+#   clear[2] getcheckinterval
+#   clear[2] __stderr__
+#   clear[2] exit
+#   clear[2] base_exec_prefix
+#   clear[2] getrecursionlimit
+#   clear[2] version_info
+#   clear[2] maxunicode
+#   clear[2] executable
+#   clear[2] getrefcount
+#   clear[2] float_repr_style
+#   clear[2] platform
+#   clear[2] intern
+#   clear[2] implementation
+#   clear[2] settrace
+#   clear[2] prefix
+#   clear[2] builtin_module_names
+#   clear[2] setrecursionlimit
+#   clear[2] __stdout__
+#   clear[2] setswitchinterval
+#   clear[2] __doc__
+#   clear[2] __name__
+#   clear[2] __excepthook__
+#   clear[2] version
+#   clear[2] dont_write_bytecode
+#   clear[2] copyright
+#   clear[2] exec_prefix
+#   clear[2] getallocatedblocks
+#   clear[2] __stdin__
+#   clear[2] maxsize
+#   clear[2] getsizeof
+#   clear[2] set_coroutine_wrapper
+# cleanup[3] wiping builtins
+#   clear[2] classmethod
+#   clear[2] Warning
+#   clear[2] pow
+#   clear[2] input
+#   clear[2] min
+#   clear[2] IsADirectoryError
+#   clear[2] FutureWarning
+#   clear[2] BytesWarning
+#   clear[2] callable
+#   clear[2] NameError
+#   clear[2] object
+#   clear[2] oct
+#   clear[2] MemoryError
+#   clear[2] complex
+#   clear[2] int
+#   clear[2] InterruptedError
+#   clear[2] chr
+#   clear[2] RuntimeWarning
+#   clear[2] BrokenPipeError
+#   clear[2] float
+#   clear[2] ProcessLookupError
+#   clear[2] map
+#   clear[2] SyntaxError
+#   clear[2] IndexError
+#   clear[2] iter
+#   clear[2] type
+#   clear[2] set
+#   clear[2] BlockingIOError
+#   clear[2] TypeError
+#   clear[2] slice
+#   clear[2] TimeoutError
+#   clear[2] reversed
+#   clear[2] SyntaxWarning
+#   clear[2] KeyboardInterrupt
+#   clear[2] id
+#   clear[2] OverflowError
+#   clear[2] ConnectionError
+#   clear[2] ImportWarning
+#   clear[2] zip
+#   clear[2] ZeroDivisionError
+#   clear[2] UnicodeError
+#   clear[2] ascii
+#   clear[2] len
+#   clear[2] vars
+#   clear[2] RuntimeError
+#   clear[2] UnboundLocalError
+#   clear[2] KeyError
+#   clear[2] GeneratorExit
+#   clear[2] filter
+#   clear[2] tuple
+#   clear[2] PendingDeprecationWarning
+#   clear[2] Ellipsis
+#   clear[2] bytes
+#   clear[2] StopIteration
+#   clear[2] __doc__
+#   clear[2] sum
+#   clear[2] UnicodeEncodeError
+#   clear[2] issubclass
+#   clear[2] dir
+#   clear[2] super
+#   clear[2] next
+#   clear[2] ord
+#   clear[2] AssertionError
+#   clear[2] delattr
+#   clear[2] RecursionError
+#   clear[2] EnvironmentError
+#   clear[2] globals
+#   clear[2] exec
+#   clear[2] NotImplemented
+#   clear[2] str
+#   clear[2] ReferenceError
+#   clear[2] compile
+#   clear[2] list
+#   clear[2] TabError
+#   clear[2] bytearray
+#   clear[2] setattr
+#   clear[2] memoryview
+#   clear[2] frozenset
+#   clear[2] UserWarning
+#   clear[2] AttributeError
+#   clear[2] IndentationError
+#   clear[2] FileExistsError
+#   clear[2] property
+#   clear[2] UnicodeDecodeError
+#   clear[2] OSError
+#   clear[2] enumerate
+#   clear[2] ConnectionResetError
+#   clear[2] all
+#   clear[2] False
+#   clear[2] PermissionError
+#   clear[2] FloatingPointError
+#   clear[2] ConnectionAbortedError
+#   clear[2] DeprecationWarning
+#   clear[2] ImportError
+#   clear[2] bin
+#   clear[2] IOError
+#   clear[2] SystemError
+#   clear[2] LookupError
+#   clear[2] ArithmeticError
+#   clear[2] print
+#   clear[2] StopAsyncIteration
+#   clear[2] locals
+#   clear[2] range
+#   clear[2] __name__
+#   clear[2] __import__
+#   clear[2] ConnectionRefusedError
+#   clear[2] NotADirectoryError
+#   clear[2] isinstance
+#   clear[2] eval
+#   clear[2] hex
+#   clear[2] sorted
+#   clear[2] hash
+#   clear[2] BufferError
+#   clear[2] abs
+#   clear[2] __debug__
+#   clear[2] format
+#   clear[2] hasattr
+#   clear[2] BaseException
+#   clear[2] ValueError
+#   clear[2] staticmethod
+#   clear[2] SystemExit
+#   clear[2] True
+#   clear[2] any
+#   clear[2] UnicodeTranslateError
+#   clear[2] round
+#   clear[2] max
+#   clear[2] getattr
+#   clear[2] Exception
+#   clear[2] divmod
+#   clear[2] __build_class__
+#   clear[2] EOFError
+#   clear[2] bool
+#   clear[2] repr
+#   clear[2] dict
+#   clear[2] NotImplementedError
+#   clear[2] ResourceWarning
+#   clear[2] UnicodeWarning
+#   clear[2] FileNotFoundError
+#   clear[2] ChildProcessError
+#   clear[2] __loader__
+#   clear[2] BytesIO
+#   clear[2] __name__
+#   clear[2] TextIOWrapper
+#   clear[2] open
+#   clear[2] __doc__
+#   clear[2] DEFAULT_BUFFER_SIZE
+# cleanup[3] wiping _frozen_importlib_external
+# cleanup[3] wiping sys
+#   clear[1] _clear_type_cache
+#   clear[1] _current_frames
+#   clear[1] _mercurial
+#   clear[1] _xoptions
+#   clear[1] _getframe
+#   clear[1] _debugmallocstats
+#   clear[2] gettrace
+#   clear[2] __package__
+#   clear[2] excepthook
+#   clear[2] __spec__
+#   clear[2] getprofile
+#   clear[2] hash_info
+#   clear[2] getdefaultencoding
+#   clear[2] setcheckinterval
+#   clear[2] __displayhook__
+#   clear[2] getswitchinterval
+#   clear[2] hexversion
+#   clear[2] setprofile
+#   clear[2] stdin
+#   clear[2] stdout
+#   clear[2] base_prefix
+#   clear[2] exc_info
+#   clear[2] abiflags
+#   clear[2] modules
+#   clear[2] setdlopenflags
+#   clear[2] thread_info
+#   clear[2] __loader__
+#   clear[2] is_finalizing
+#   clear[2] displayhook
+#   clear[2] get_coroutine_wrapper
+#   clear[2] stderr
+# destroy websockets
+# destroy websockets.compatibility
+# destroy websockets.exceptions
+# destroy websockets.protocol
+# destroy websockets.server
+# destroy websockets.client
+# destroy websockets.framing
+# destroy websockets.py35
+# destroy websockets.py35.client
+# destroy websockets.uri
+# destroy websockets.handshake
+# destroy websockets.version
+# destroy websockets.http
+# destroy _sitebuiltins
+# destroy asyncio.log
+# destroy asyncio.unix_events
+# destroy asyncio.subprocess
+# destroy asyncio.queues
+# destroy _collections_abc
+# destroy _operator
+# destroy _collections
+# destroy concurrent.futures
+# destroy concurrent.futures.process
+# destroy concurrent.futures.thread
+# destroy _functools
+# destroy collections.abc
+# destroy _weakref
+# destroy sre_compile
+# destroy sre_parse
+# destroy _sre
+# destroy _string
+# destroy multiprocessing
+# destroy multiprocessing.connection
+# destroy _signal
+# destroy multiprocessing.reduction
+# destroy multiprocessing.util
+# destroy tempfile
+# destroy _socket
+# destroy _thread
+# destroy tarfile
+# destroy fnmatch
+# destroy posixpath
+# destroy shutil
+# destroy copy
+# destroy grp
+# destroy pwd
+# destroy io
+# destroy _compression
+# destroy _lzma
+# destroy _warnings
+# destroy math
+# destroy _random
+# destroy _hashlib
+# destroy _multiprocessing
+# destroy copyreg
+# destroy multiprocessing.context
+# destroy pickle
+# destroy _struct
+# destroy _compat_pickle
+# destroy _pickle
+# destroy array
+# destroy multiprocessing.process
+# destroy select
+# destroy _posixsubprocess
+# destroy atexit
+# destroy concurrent.futures._base
+# destroy queue
+# destroy importlib
+# destroy token
+# destroy dis
+# destroy tokenize
+# destroy enum
+# destroy ast
+# destroy itertools
+# destroy _opcode
+# destroy importlib.machinery
+# destroy _frozen_importlib_external
+# destroy _imp
+# destroy types
+# destroy opcode
+# destroy reprlib
+# destroy linecache
+# destroy weakref
+# destroy inspect
+# destroy concurrent
+# destroy traceback
+# destroy heapq
+# destroy asyncio.locks
+# destroy _heapq
+# destroy asyncio.tasks
+# destroy asyncio.streams
+# destroy asyncio.coroutines
+# destroy asyncio.base_subprocess
+# destroy threading
+# destroy posix
+# destroy asyncio.selector_events
+# destroy signal
+# destroy stat
+# destroy subprocess
+# destroy asyncio.sslproto
+# destroy asyncio.futures
+# destroy selectors
+# destroy asyncio.events
+# destroy asyncio.constants
+# destroy errno
+# destroy textwrap
+# destroy ipaddress
+# destroy _ssl
+# destroy ssl
+# destroy asyncio.protocols
+# destroy asyncio.base_events
+# destroy asyncio.compat
+# destroy asyncio.transports
+# destroy email._parseaddr
+# destroy email._encoded_words
+# destroy email.parser
+# destroy email.encoders
+# destroy email.quoprimime
+# destroy email.base64mime
+# destroy email.feedparser
+# destroy email._policybase
+# destroy email.iterators
+# destroy email.utils
+# destroy uu
+# destroy quopri
+# destroy warnings
+# destroy os
+# destroy socket
+# destroy urllib.parse
+# destroy time
+# destroy calendar
+# destroy datetime
+# destroy locale
+# destroy _locale
+# destroy encodings
+# destroy abc
+# destroy email.header
+# destroy email.charset
+# destroy functools
+# destroy binascii
+# destroy hashlib
+# destroy base64
+# destroy re
+# destroy email.errors
+# destroy email.message
+# destroy random
+# destroy io
+# destroy struct
+# destroy urllib
+# destroy email
+# destroy logging
+# destroy asyncio
+# destroy collections
+# destroy _frozen_importlib
